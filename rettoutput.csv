@@ -1,0 +1,2782 @@
+chunk,summary,index
+"Rett syndrome (RTT; OMIM identifier #312750), first 
+reported by the Austrian physician Andreas Rett, is a 
+devastating neurological disorder that affects brain 
+development and function in females in approximately 1 in 10,000 live births
+1,2. In 90–95% of patients diagnosed 
+with classic RTT , the disease is caused by loss- of-function 
+mutations in the X- linked MECP2 gene, which encodes 
+methyl- CpG binding protein 2 (MeCP2).
+MECP2 gene mutations predominantly arise in 
+germ cells from the paternal side3. Despite the hun-
+dreds of RTT-  causing MECP2 mutations that have 
+been identified, eight ‘hotspot’ mutations (encoding the amino acid substitutions R106W , R133C, T158M, R168X, R255X, R270X, R294X and R306C) con -
+stitute more than 60% of documented cases
+4. RTT-  
+causing mutations in MECP2 in female patients lead 
+to developmental regression, including a loss of speech and hand skills, after apparently normal develop-ment
+5. In females, random X chromosome inactivation  
+results",h,0
+"esults in somatic mosaics  with normal and mutant 
+MECP2. MECP2 mutations in males usually lead to 
+severe congenital encephalopathies and death within  
+2 years6.
+MeCP2 was initially identified as a nuclear protein 
+that binds methylated DNA7 and was therefore described 
+as a transcriptional repressor. Later, it was described as a  
+multifunctional modulator of gene expression and as  
+a transcriptional regulator with activating or repressing actions depending on the molecular context
+8. Recent 
+evidence points to a role of MeCP2 as a weak repressor 
+but with prominent secondary effects, including post-  
+transcriptional regulation of gene expression through 
+microRNA (miRNA)-mediated mechanisms9.A large body of research on RTT produced over two 
+decades has greatly advanced our understanding of the functions and regulation of MeCP2 as well as the mech-
+anisms underlying RTT pathophysiology. Furthermore, 
+recent studies have offered new insights into the roles of MeCP2 at different de",h,1000
+"velopmental stages, MeCP2–DNA interactions, the importance of MeCP2 for excitation–
+inhibition (E/I) balance at the circuit level and the plas-
+ticity that underlies RTT. The purposes of this Review are to provide a synthesis of the field, to assess the pri-mary and secondary molecular actions of MeCP2 and to 
+discuss how loss of MeCP2 results in changes in circuit 
+function that are associated with RTT.
+Clinical features of RTT
+RTT is characterized by apparently normal early develop-ment with subsequent regression. However, subtly visible 
+symptoms, such as 
+hypotonia , jerkiness in limb move-
+ments and limited social interaction (as reflected by lack of interest in others), are present during early infancy
+10. 
+Stunted head growth between 2 and 4 months of age may be diagnosed as acquired microcephaly and is an 
+early sign of neurologic involvement
+10. The main symp-
+toms often begin at around 12–18 months and include 
+arrested cognitive and motor development and loss of 
+acquired ve",h,2000
+"red verbal skills. In addition, normal hand function is often replaced with stereotyped repetitive hand move-ments
+10,11. This developmental stagnation and regres-
+sion of acquired skills is characteristic of RTT. Another 
+clinical hallmark is ataxia, which often results in motor 
+disability, rendering affected individuals wheelchair-  
+bound by the teenage years. Autonomic dysfunction and respiratory problems, seizures, anxiety and orthopaedic Classic RTT
+The most common form of RTT . 
+Several atypical forms of RTT 
+have been described. The 
+classic and atypical forms may 
+differ by their symptoms or by 
+the specific gene mutation.
+Random X chromosome 
+inactivation
+Random inactivation of one  
+X chromosome in early 
+embryonic cells in females.
+Somatic mosaics
+The presence of two populations of cells with 
+different genotypes (mutation-  
+positive and mutation-  
+negative) in one individual.Rett syndrome: insights into genetic, 
+molecular and circuit mechanisms
+Jacque P . K. Ip  1, Nik",h,3000
+"Nikolaos Mellios2 and Mriganka Sur  1*
+Abstract | Rett syndrome (RTT) is a severe neurological disorder caused by mutations in the gene 
+encoding methyl- CpG-binding protein 2 (MeCP2). Almost two decades of research into RTT have 
+greatly advanced our understanding of the function and regulation of the multifunctional protein 
+MeCP2. Here, we review recent advances in understanding how loss of MeCP2 impacts different 
+stages of brain development, discuss recent findings demonstrating the molecular role of MeCP2 
+as a transcriptional repressor , assess primary and secondary effects of MeCP2 loss and examine 
+how loss of MeCP2 can result in an imbalance of neuronal excitation and inhibition at the circuit 
+level along with dysregulation of activity- dependent mechanisms. These factors present 
+challenges to the search for mechanism- based therapeutics for RTT and suggest specific 
+approaches that may be more effective than others.
+1Department of Brain and 
+Cognitive Sciences, Picower 
+In",h,4000
+"Institute for Learning and 
+Memory, Massachusetts 
+Institute of T echnology, 
+Cambridge, MA, USA.
+2Department of 
+Neurosciences, School of 
+Medicine, The University of 
+New Mexico, Albuquerque, 
+NM, USA.
+*e- mail: msur@mit.edu
+https://doi.org/10.1038/ 
+s41583-018-0006-3
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+368 | JUNE 2018 | volUmE 19 
+problems are also common in individuals with RTT10,11. 
+Impaired development of visual processing and reduced 
+visually evoked cortical responses have been reported in 
+some patients12,13.
+The disease eventually plateaus and stabilizes10. 
+Individuals with RTT live into adulthood and often 
+require total care. Individuals with RTT may transiently 
+exhibit autistic- like behaviours, such as social withdrawal 
+and avoidance of eye gaze, during the regression phase, but they often become more interactive and social with 
+age
+14. Notably, RTT is no longer listed as an autism spec-
+trum dis",h,5000
+"sorder (ASD) in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders  (DSM- V)
+15. 
+However, RTT patients who show autistic- like features 
+may be described as having ASD associated with RTT.
+Neural phenotypes of RTT
+The gross observation of reduced brain volume in indi-
+viduals with RTT is associated with abnormally small 
+and densely packed neurons that are reduced in den-
+dritic complexity and spine density16. The dendrites of 
+pyramidal neurons in the motor and frontal cortices are 
+considerably shorter than in non- RTT brains16. MRI 
+data demonstrate selective reductions in the volume of 
+the parietal and temporal lobes in female RTT patients, with preservation of the occipital cortex
+17.
+Following the identification of MECP2 as the prin-
+cipal genetic factor underlying RTT18, enormous effort 
+has been focused on modelling the disease using mouse 
+and other animal models (BoX 1) and human induced 
+pluripotent stem cell (iPSC)-derived models (BoX 2).
+MeCP2",h,6000
+"P2 loss affects different cell types in multiple 
+brain regions. MeCP2 is ubiquitously expressed but is enriched in the brain. Brain- specific deletion of Mecp2   
+(Nestin–Mecp2
+−/y) in mice captures key phenotypes, 
+including reduced movement, abnormal gait, hindlimb 
+clasping, respiratory abnormalities and early lethality, that 
+present in Mecp2 -null mice19,20. This finding highlights a 
+crucial role for the specificity of MeCP2 in the brain.
+Region- specific knockout in the brain further reveals 
+diverse roles of MeCP2 across various brain regions. For example, deletion of Mecp2 in the brainstem and spinal cord leads to abnormal heart rate and breathing patterns 
+and early lethality
+21,22; removal from dopaminergic and 
+noradrenergic neurons induces motor incoordina-tion
+23; and removal from serotonergic neurons increases 
+aggression23. Evidently, the region- specific loss of Mecp2  
+induces a subset of RTT phenotypes that correspond to the function of the targeted region. Furtherm",h,7000
+"hermore, the loss 
+of MeCP2 in all inhibitory neurons (in Viaat –Mecp2
+−/y 
+mice) strikingly reproduces severe forms of RTT phe-
+notypes, highlighting the important contribution of 
+inhibitory neurons and E/I balance to MeCP2-mediated functions in the brain
+24. Deletion of Mecp2 from astro -
+cytes in mice has relatively minor phenotypic conse-
+quences, but restoration of MeCP2 in astrocytes in an 
+otherwise MeCP2-deficient nervous system results in marked amelioration of phenotypes
+25. Transplantation 
+of wild- type microglia to a mouse model of RTT was 
+reported to reverse symptoms26; however, multiple 
+attempts to reproduce this finding were not successful27, pointing to the complexity of non- neuronal, potentially 
+secondary, effects of MeCP2. Microglia have been sug-gested to contribute to RTT pathogenesis by excessively eliminating presynaptic inputs in fully symptomatic Mecp2-null mice. However, microglial- specific deletion 
+(in Cx3cr1
+CreER–Mecp2−/y mice) has minimal effects on",h,8000
+"fects on 
+microglial phagocytosis and synaptic loss, suggesting 
+involvement of other cell types in this effect28.
+Loss of MeCP2 affects multiple developmental stages. 
+Consistent with studies of post- mortem RTT brains, sev-
+eral early studies of mouse models suggested RTT to be a disorder of delayed neuronal maturation and synapse 
+formation. These mouse models revealed reductions in 
+neuronal soma size, dendritic arborization, spine density and postsynaptic density protein 95 (PSD95) immunore-activity as well as abnormal spine morphology
+29–31. Such 
+findings led to the belief that MeCP2 is predominantly 
+involved in the maturation of neuronal function, through 
+processes including synaptogenesis, synaptic plasticity and establishment of functional circuits. In line with the structural defects, alterations in synaptic transmission 
+are observed at the circuit level in Mecp2-mutant mice. 
+Loss of MeCP2 leads to changes in neuronal excitability 
+and deficits in experience- dependent p",h,9000
+" plasticity processes, 
+such as homeostatic synaptic scaling, resulting in altered 
+neuronal connectivity and shifts in E/I balance at the circuit level (see details below). These functional defi-
+cits result from a failure of activity- dependent feedback 
+mechanisms that require MeCP2 to establish and main-
+tain functional brain circuits during neuronal maturation 
+and throughout life
+32,33. However, increasing evidence 
+also suggests that MeCP2 has diverse and distinct roles in all stages of brain development, including the earliest 
+stages of neurogenesis and neuronal migration 
+(Fig.  1).
+Initial reports in mouse models reported low MeCP2 
+expression in neural progenitor cells (NPCs) — with little effect of MeCP2 deficiency in cultured neurospheres — and a progressive increase during embryonic and postna-tal development
+34,35. More recent evidence now indicates 
+that loss of MeCP2 affects early developmental stages con-
+siderably. Clinical studies report subtle symptoms before 
+6 m",h,10000
+" 
+6 months of age10,36–38 and early developmental delays 
+before the full manifestation of RTT36,39,40. Male babies 
+born with a mutant MECP2 allele, although very rare 
+owing to the predominantly paternal origin of MECP2  
+mutations, display severe neurological deficits from birth, 
+including disproportionately small frontal and temporal 
+lobes characteristic of a prenatal pathogenesis6.
+Diverse phenotypes of RTT are present during 
+neurogenesis and neuronal migration, and during the 
+later stages of synaptic and circuit development and plasticity
+41,42. Immunohistochemistry studies comparing 
+wild- type cells with MeCP2-deficient cells suggest that 
+MeCP2 is expressed in the prenatal cortex in mouse42 and 
+in human iPSC- derived NPCs43. The neurogenic func-
+tion of MeCP2 has been demonstrated in mouse NPC 
+cultures: overexpression of MeCP2 in these cultures 
+inhibited glial differentiation but promoted neuronal differentiation
+44. Conversely, embryonic NPCs extracted 
+at embryonic da",h,11000
+"day 15.5 from Mecp2-null mice exhibit a 
+more proliferative identity and morphological alterations Hypotonia
+A state of low muscle tone (the 
+amount of tension or 
+resistance to stretch in a 
+muscle), often resulting in 
+muscle weakness.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 369
+as early as 3 days in vitro42. In Xenopus laevis , MeCP2 
+regulates the transcriptional expression of the neuronal 
+repressor gene XHairy2a (also known as hes4); depletion 
+of MeCP2 protein and expression of a truncated form of 
+MeCP2 (R168X) result in a decrease and an increase in 
+the number of NPCs, respectively45. In zebrafish, genetic 
+deletion of mecp2  inhibits neuronal differentiation, 
+whereas Mecp2 overexpression promotes differentia -
+tion46. Similarly, measurement of the expression of NPC 
+markers and early neuronal markers in the Mecp2-null mouse brain shows an increase in NPC markers and a 
+d",h,12000
+"
+decrease in neuronal markers, suggesting a possible imbalance in prenatal brain development
+42. Moreover, 
+alterations in human neurogenesis and neuronal differ -
+entiation are observed in patient- derived iPSC cultures 
+and cerebral organoids41. Even small deflections in the 
+developmental programme may predispose the embryo 
+to complex phenotypes later on. Such reports of an early 
+developmental role for MeCP2 are particularly important when we consider treatment time points for RTT patients. Although postnatal re- expression of MeCP2 at later stages in Mecp2-mutant mice partially rescues several RTT phe-
+notypes, including lifespan
+47,48, the above findings suggest 
+that earlier treatment would increase its effectiveness.
+Earlier and more recent evidence suggests that MeCP2 
+is required for the maintenance of mature neural net -
+works49. Removing MeCP2 during postnatal development 
+or in adulthood leads to rapid progression of RTT- like 
+symptoms, including lethality50,51. Several ",h,13000
+"synaptic pro-
+teins, including NMDA receptor (NMDAR) subunits and 
+presynaptic vesicular glutamate transporter 1 (VGLUT1), 
+are reduced upon postnatal removal of MeCP2 (ReF.50). 
+Intriguingly, the levels of mRNA encoding these proteins 
+remain unchanged, suggesting that MeCP2 probably reg-
+ulates the levels of these proteins post- transcriptionally50. 
+Further confirming the requirement of MeCP2 in the 
+adult brain, in vivo genome editing by injection of adeno-  
+associated viral vector (AAV)–Streptococcus pyogenes  
+Cas9 and guide RNA  targeting Mecp2 in adult mouse pri-
+mary visual cortex (V1) depleted MeCP2 in 70% of the infected cells and led to altered visual responses, including  
+reduced orientation selectivity and peak response
+52.Box 1 | Translational insights from mice
+Research into Rett syndrome (RTT) received a major impetus through the generation and wide availability of methyl-  
+CpG-binding protein 2 (Mecp2)-mutant mice19,20. Mecp2-null (Mecp2−/y) male mice are used more",h,14000
+" more often than female 
+heterozygous (Mecp2+/−) mice, as the former display early- onset, severe symptoms similar to those in patients with RTT; 
+namely, breathing irregularities and motor abnormalities, along with early lethality19,20. Female Mecp2+/− mice, which 
+provide a more accurate genetic representation of the disorder, should be used as well as Mecp2−/y mice for preclinical 
+studies for potential therapeutics112, even though their neurological symptoms develop later and they show higher 
+phenotypic variability (owing to X chromosome inactivation)156.
+mouse models for common missense mutations (including those encoding T158A, T158m and R306C substitutions) 
+recapitulate RTT- like phenotypes68,157, 158. T158A and T158m affect the methyl- CpG-binding domain (mBD), reduce meCP2 
+protein stability and cause reductions in the amplitude of event response potentials in the auditory cortex at the circuit 
+level157, 158. R306C is a mutation that affects the nuclear receptor co- repress",h,15000
+"epressor (NCoR)–silencing mediator for retinoic acid 
+and thyroid hormone receptor (SmRT) interaction domain (NID) and abolishes the interaction of meCP2 with the NCoR–
+SmRT complex68,69. As common missense mutations are highly relevant to RTT pathology, these models are valuable tools 
+for preclinical studies.
+one limitation of transgenic mouse models is that the onset of neurological symptoms occurs much later in 
+development than in humans. moreover, RTT- related phenotypes may be less severe in rodents. other factors, including 
+genetic background and rearing conditions, should be considered when analysing expressed phenotypes. Furthermore, RTT models in other species, including rats and non- human primates, have been developed. These recapitulate key 
+features of RTT and offer unique behavioural features, including regression of a learned psychomotor skill in rats
+159 and 
+unique eye- tracking measures in primates160. Such models could enable cross- species validation in developin",h,16000
+"oping preclinical 
+outcome measures in the future159.
+RTT animal models have helped to establish biomarkers to track disease progression and amelioration. Several 
+behavioural assessments have been established to track the onset and severity of RTT in mouse models156. Unbiased, 
+quantitative biomarkers of brain function and disease progression are needed. A recent study used frontal alpha- band 
+electroencephalogram asymmetry, an index of anxiety and depression, in humans to evaluate the effects of insulin- like 
+growth factor 1 (IGF1) treatment161. other measurable phenotypes have been suggested: Mecp2−/y mice exhibit 
+regression of visual acuity in adulthood (as opposed to progressive increase of acuity during normal development)109, and 
+Mecp2+/− mice and individuals with RTT exhibit decreases in the amplitude of cortical visually evoked potentials (vEPs)13. 
+Therefore, a standardized vEP analysis might be useful in assessing preclinical and clinical therapeutic outcomes. The 
+ideal",h,17000
+"deal biomarker may combine behavioural and electrophysiological assessments.
+mouse models have provided the basis for preclinical studies and therapeutic strategies for RTT (BoX 3). For example, 
+several signalling pathways, including the brain- derived neurotrophic factor (BDNF)162 and IGF1 (ReF.29) pathways, are 
+altered in RTT mouse models and are currently being targeted for potential therapeutics163. BDNF has important roles in 
+synaptic maturation and plasticity. BDNF levels are reduced in Mecp2-mutant mice164, and candidate agents that increase 
+BDNF levels (namely, glatiramer acetate and fingolimod) are in clinical trials165, 166 in RTT163. IGF1 regulates the 
+phosphoinositide 3-kinase (PI3K)–AKT–postsynaptic density protein 95 (PSD95) pathway, a major pathway of excitatory synaptic maturation that is deficient in RTT model mice
+29,84 and in individuals with RTT161. PSD95 is a highly abundant 
+synaptic protein crucial for synaptic maturation and plasticity167, 168 and is upregu",h,18000
+"pregulated by BDNF169 and IGF1 (ReFS29,170). 
+PSD95 is deficient in Mecp2-null mice171 and is restored following systemic treatment with IGF1 (ReFS29,134). Indeed, IGF1 
+treatment has shown efficacy in a phase I/IIa trial161. NNZ-2566, a synthetic analogue of IGF1, has been claimed to 
+improve breathing and motor behaviour in patients with RTT; NNZ-2566 will soon advance to phase III trials.
+Guide RNA
+A short synthetic RNA 
+composed of a 20-nucleotide 
+sequence, homologous to the 
+gene of interest, and a Cas9 
+nuclease- recruiting sequence 
+for CRiSPR–Cas9 gene editing.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+370 | JUNE 2018 | volUmE 19 
+Molecular effects
+Since the discovery in 1999 that mutations in the MECP2  
+gene were the underlying cause of RTT18, tremendous 
+progress has been made in understanding the molec-
+ular functions of MeCP2. Interacting with DNA is an 
+essential part of MeCP2 function, as MeCP2 is pri-mar",h,19000
+"marily a chromatin-  bound nuclear protein that acts as 
+an 
+epigenetic reader . On the basis of functional studies, 
+MeCP2 has been proposed to regulate gene transcription, 
+chromatin compaction and miRNA processing53. This 
+section discusses the molecular effects of MeCP2 and how its loss contributes to neurological deficits in RTT.
+Epigenetics of MeCP2–DNA interactions. MeCP2 was 
+originally found to bind specifically to DNA that con-
+tains methylated cytosines in CpG dinucleotides (mCG), 
+via its methyl- CpG-binding domain (MBD), thus help-
+ing to repress gene expression
+7,54,55. However, it was 
+recently reported that MeCP2 also interacts with methyl-
+ated CA (mCA) sites56, and another report further speci-
+fied the binding of MeCP2 to methylated CAC (mCAC) trinucleotides
+57. Intriguingly, mCA is more abundant 
+in postmitotic neurons, accumulates throughout devel-opment and seems to promote transcriptional repres-
+sion
+58,59. The sites that harbour mCA modifications are frequently",h,20000
+"ly found in long genes  that have been shown 
+to be preferentially expressed in RTT59. mCA sites are 
+concentrated within gene bodies , which further suggests 
+that MeCP2 obstructs transcription within transcribed 
+regions60. A recent study suggested that mCA sites are 
+methylated during early postnatal life by DNA (cyto-sine-5)-methyltransferase 3A (DNMT3A)
+61 and that 
+activity- induced sites are less DNMT3A- bound and are 
+thus less methylated. This mCA- mediated repressive 
+effect of MeCP2 is believed to mediate cell- type-specific 
+transcriptional fine- tuning61.
+The ability of MeCP2 to interact with DNA bearing 
+5-hydroxymethylcytosine (5hmC) was previously con-
+troversial. Several independent studies now show that MeCP2 can bind to hydroxymethylated CA (hmCA) sites, but with a much lower affinity than to hydroxym-
+ethylated CG (hmCG) sites (see 
+ReF.56 for a more detailed 
+discussion). 5hmC is frequently associated with gene activation (possibly owing to its low binding affinity",h,21000
+" 
+to MeCP2), whereas the binding of MeCP2 to mCG and mCA is associated with repression
+62; specifically, 
+5hmC is enriched in genes that are actively expressed 
+in neurons62. It is possible that the hmCG modification 
+may result in ‘functional demethylation’ of mCG sites, as it may promote the detachment of MeCP2 and thus Epigenetic reader
+A protein that reads specific 
+epigenetic marks on DNA.
+Long genes
+genes with length greater than 100 kb.
+Gene bodies
+Regions of DNA from the transcription start site to the 
+end of the transcript.Box 2 | Modelling RTT in human cells
+Intact human brains cannot be subjected to irreversible genetic manipulations or high- throughput drug screening, and 
+human brain samples can be obtained only post- mortem and represent only the end point of the disorder. Hence, induced 
+pluripotent stem cell (iPSC)-derived cell culture models of human brain development have been important for 
+elucidating specific cellular aspects of disease pathology. Genome editing u",h,22000
+"ng using transcription activator- like effector 
+nuclease (TAlEN) and CRISPR technologies, together with human neuronal cultures derived from people with Rett 
+syndrome (RTT), has revealed structural, molecular and physiological RTT- related phenotypes during early developmental 
+stages41,43,74,172– 175.
+Isogenic controls are crucial for iPSC analyses. In RTT, neurons expressing only the non- mutated methyl- CpG-binding 
+protein 2 (MECP2) allele can be generated from patients’ cells using random X chromosome inactivation, such that 
+controls share the same genetic background as the patients41,43. Similar to RTT mouse models and post- mortem human 
+patient samples, RTT iPSC- derived neurons demonstrate reductions in soma size, spine density, neuronal firing and 
+activity- dependent signalling173. In addition, these cells show various signs of impaired neuronal maturation, including 
+reduced expression of the neuronal marker TUJ1 (neuron- specific class III β- tubulin) and excitatory and",h,23000
+"y and inhibitory 
+neuronal markers, aberrant electrophysiological properties and deficits in activity- dependent transcription43,74,172, 175. 
+moreover, RTT iPSC- derived cell cultures show impaired neuronal differentiation and migration41, and differentiated 
+astrocytes derived from RTT patients have adverse effects on the morphology and function of wild- type neurons174.
+Cerebral organoids are stem- cell-derived in vitro 3D structures, with a certain self- organizing capacity, that mimic, at 
+least in part, in vivo brains. Although cerebral organoids currently can be used only to model early development of the human brain, several key features of in vivo brain organogenesis are recapitulated by in vitro organoids, which thus 
+provide robust models for studying neurological disorders
+176. RTT patient- derived cerebral organoids have recently been 
+generated and exhibit abnormalities in neuronal proliferation and differentiation as well as reduced maturity — phenotypes also observed in",h,24000
+"ved in human meCP2-deficient monolayer cultures
+41. However, to avoid the variability driven by 
+random X chromosome inactivation, cerebral organoids are generated primarily from cells that express only the mutant copy of MECP2; thus, the effect more closely mimics human male mutations, which are more severe. Therefore, it will be 
+of great interest to generate cerebral organoids that more closely mimic female RTT brains, with heterozygous expression and random X inactivation.
+one intriguing difference between mouse models and human RTT is their disease severity. The effects of meCP2 
+deficiency are milder in rodents than in humans: Mecp2
+−/y mice survive for several weeks postnatally, and Mecp2+/− mice 
+show late symptom onset. This difference puts human iPSC- derived models in a unique position for studying RTT 
+pathophysiology. With rapid advances in organoid- culturing strategies, cerebral organoids can develop over an 
+extended period (more than 9 months), establishing late- devel",h,25000
+"evelopmental and even mature features, including dendritic 
+spine formation and active neuronal networks177. If or when cell- type-specific differentiation becomes a routine feature 
+of these models, they and human- derived 2D cultures will be very useful for studying the interaction between excitatory 
+and inhibitory neurons in the context of RTT178. In the meantime, cerebral organoids are suitable models to investigate 
+early- developmental events, including neurogenesis and migration. As a future direction for precision medicine, drugs 
+could potentially be tested on neuronal cultures derived from an individual with RTT before deciding whether they can 
+be administered to the patient179.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 371
+achieve derepression of transcription63. One model 
+that synthesizes these recent findings on MeCP2–DNA 
+interaction56,60,61,63 posits that activity an",h,26000
+" and experience 
+can modulate DNA methylation, through enzymatic actions, for the fine- tuning of MeCP2-regulated gene 
+transcription 
+(Fig.  2).
+MeCP2 as a transcriptional regulator . A large body of 
+data on the role of MeCP2 indicates that it is primarily a transcriptional repressor
+53, although MeCP2 has also 
+been suggested to act as a transcriptional activator8.
+A role for MeCP2 in transcriptional repression was 
+supported by the negative correlation between mCA levels and transcription of long genes
+59. Moreover, two 
+separate studies emphasized the proportional relationship 
+between DNA methylation levels, MeCP2 binding on 
+the genome and transcriptional repression57,60. MeCP2 is 
+highly abundant (there are an estimated 16 million mole-
+cules of MeCP2 per neuronal nucleus, compared with an 
+estimated 32 million nucleosomes per nucleus), suggest-ing that it binds genome wide
+64. Thus, converging lines of evidence suggest that the repressive effects of MeCP2 are genome wide and p",h,27000
+"positively correlated with the density of methylation of CG and CA sites in gene bodies
+65.
+Furthermore, microarray profiling and whole- cell 
+RNA sequencing indicate that the repressive effect of MeCP2 is biased towards long genes larger than 100 kb, 
+and expression of mutant MeCP2 leads to upregula-tion of the expression of long genes
+59,66. More specifi-
+cally, highly methylated long genes — and not lowly 
+methylated long genes — are upregulated in MECP2  
+mutants59,60. A recent study analysing mice carrying 
+specific RTT- associated Mecp2 mutations (namely, those 
+encoding the T158M and R106W substitutions) showed 
+that gene expression changes are largely mutation-  
+specific and cell- type-specific67. Nuclear transcriptomes 
+from forebrain neurons of these mutant mice reveal 
+reductions in the nascent transcription of long genes 
+and suggest a functional compensation for the reduc -
+tions in long gene expression at the whole- cell level via 
+post- transcriptional mechanisms67. How",h,28000
+" However, this study 
+did not take into account the methylation status of the Early dev elopment Matur ation Circuit r eﬁnement Matur e cir cuit maintenanceActivity-dependent plasticity
+Differ entiationNeur omodulator s
+SOM
+PVVIP
+RTTWT
+Impaire d differ entiation Impaire d matur ation
+Alter ed connectiv ity, 
+leadin g to E/I imbalance/uni2193 Neur omodulator s
+SOM
+PVVIP
+Fig. 1 | Effects of MeCP2 loss at different stages of brain development. Methyl- CpG-binding protein 2 (MeCP2) 
+regulates multiple stages of brain development and function. Loss of MeCP2 results in impaired neurogenesis and 
+differentiation in early development, abnormal neuronal maturation, reduced circuit connectivity and excitation–inhibition (E/I) imbalance — all of which potentially contribute to Rett syndrome (RTT) pathophysiology . Neural progenitor cells (left) differentiate into mature neurons through the development of dendrites and synapses and through experience-  
+dependent and activity- dependent refinement",h,29000
+"nement. The proper development of microcircuits comprising pyramidal neurons 
+and inhibitory neurons, including cells expressing somatostatin (SOM), parvalbumin (PV) or vasoactive intestinal peptide (VIP), is required for proper E/I balance. In RTT , the differentiation of neural progenitors is impaired at an early stage of development. At postnatal stages, RTT neurons show smaller soma sizes and underdeveloped dendritic arbors. Altered connectivity and reduced excitation and inhibition lead to E/I imbalance in RTT and RTT models; dashed lines represent altered connection strengths. WT , wild type.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+372 | JUNE 2018 | volUmE 19 
+long genes affected by MeCP2 loss, which is particu-
+larly important because other studies found that only 
+highly methylated long genes are upregulated in Mecp2-
+knockout mice59,60. Future studies will be required to fur -
+ther delineate the effects of var",h,30000
+"rious MECP2  mutations on 
+the transcriptional regulation of long genes in different 
+neuronal cell types and to correlate these effects with the methylation status of long genes.
+Considerable progress has recently been made in 
+resolving the molecular mechanisms underlying the repressor role of MeCP2. MeCP2 has been reported to interact with the histone deacetylase (HDAC)–SIN3A co-  
+repressor complex as well as with the HDAC3-containing 
+nuclear receptor co- repressor (NCoR)–silencing mediator 
+for retinoic acid and thyroid hormone receptor (SMRT) 
+complex
+55,68. The recruitment of the NCoR–SMRT com-
+plex has been particularly implicated in mediating the 
+repressive effects of MeCP2 (ReF.68). The NCoR–SMRT complex contains multiple subunits, including NCoR, 
+SMRT, HDAC3, G protein pathway suppressor 2 (GPS2) and transducin β- like protein 1 (TBL1) or its paralogue 
+TBL1-related protein 1 (TBLR1)
+69. MeCP2 recruits the 
+NCoR–SMRT complex by directly interacting with TBL1 
+and TBLR1 th",h,31000
+"nd TBLR1 through its NCoR–SMRT interaction domain 
+(NID) within its transcriptional repression domain (TRD)
+69. In this model, the HDAC3-containing NCoR–
+SMRT complex is recruited by MeCP2 when MeCP2 is 
+bound to DNA, and modulates chromatin structure by 
+removing acetyl groups from histone lysine residues55,68 
+(Fig.  3). Notably, RTT-  associated Mecp2  mutations (such 
+as R306C) that affect the NID of MeCP2 result in severe 
+RTT phenotypes68, and a recent study demonstrated that 
+the MBD and NID of MeCP2 may be most phenotypi-cally relevant for RTT
+70. Thus, the primary function of 
+MeCP2 is probably to connect methylated DNA with the NCoR–SMRT co- repressor complex. The binding of  Box 3 | Therapeutic strategies for RTT
+There currently exist two major objectives in the development of therapeutic strategies: therapeutic targets downstream 
+of methyl- CpG-binding protein 2 (meCP2) and gene therapy. Postnatal restoration of meCP2 in Mecp2-mutant mice 
+rescues several Rett syndrome (RT",h,32000
+"ome (RTT) phenotypes, emphasizing the reversibility of this devastating disorder47,48,180. Several 
+treatment strategies that are based on targeting signalling downstream of meCP2, such as increasing brain- derived 
+neurotrophic factor (BDNF) or insulin- like growth factor 1 (IGF1), have improved certain RTT features in preclinical tests 
+and are in clinical trials161, 163 (BoX 1). Given the diverse functional targets of meCP2, it is likely that no single signalling 
+pathway can explain disruptions resulting from meCP2 dysfunction or loss. Rather, the development of novel treatment 
+strategies must take into account not only the validity and specificity of the therapeutic target (that is, the mechanism of 
+drug action and its relevance to meCP2 mechanisms) but also the diversity of the effects of meCP2 dysfunction or loss on 
+different brain regions and cell types and during different developmental phases as well as on the time course of disease 
+progression. Furthermore, therapeutic e",h,33000
+"effectiveness is influenced by various factors, including the stratification and validity of patient populations and their match to preclinical drug validation models, drug dosage, trial onset and 
+duration, effectiveness of biomarkers and choice of end points. Considering the temporal and regional features of RTT 
+discussed in the main text, and the issues mentioned above, the most effective therapeutics will probably target mechanisms as directly, and as early, as possible. Current therapeutic strategies for RTT, including those in clinical trials, have been reviewed recently
+163.
+As inhibitory dysfunction is a major feature of RTT, its modulation is a feasible approach to a functional treatment for 
+RTT. As excitation is also reduced in forebrain areas in Mecp2-mutant mice, enhancing excitation should also be 
+considered for treatment strategies. Strikingly, deep brain stimulation (DBS) targeting the hippocampus rescues memory deficits in Mecp2-mutant mice
+181, 182, presumably by mo",h,34000
+"dulating the excitation and inhibition of local circuits183. This 
+finding opens a potential new avenue for RTT therapy. mechanism- based approaches, such as IGF1 treatment (BoX 1), 
+restore inhibition and excitation in Mecp2-mutant mice101. Ketamine, an NmDA receptor antagonist, improves specific 
+functions, including forebrain activity (as indicated by FoS expression) and prepulse inhibition of the acoustic startle in Mecp2
+−/y and Mecp2+/− mice, respectively106. meCP2-deficient mice and neurons derived from individuals with RTT show a 
+lower K+/Cl− exporter 2 (KCC2):Na+/K+/Cl− symporter (NKCC1) ratio, leading to abnormal GABA- induced changes in 
+membrane response and thus reduced inhibition. The US Food and Drug Administration (FDA)-approved NKCC1 antagonist bumetanide could thus be a potential candidate
+101, 130, although the development of molecules that enhance 
+KCC2 function would be an important advance.
+owing to the complexity of meCP2 dysfunction in RTT, gene therapy is poss",h,35000
+"y is possibly the most direct approach for treating 
+the disorder. In principle, gene therapy would need to be attempted as early as possible, but the level of meCP2 would 
+have to be accurately titrated, as overdosage of meCP2 or duplication of MECP2 would lead to severe neurological 
+consequences153– 155. Current evidence supports four potential gene therapy strategies11,163. First, delivery of Mecp2 gene 
+using an adeno- associated virus serotype 9 (AA v9) vector through intravenous injection partially rescues RTT- like 
+features in Mecp2-mutant mice184. Second, molecules such as aminoglycoside antibiotics (for example, gentamyicin) can 
+enable ribosomes to read across meCP2-encoding RNA despite nonsense mutations185, 186 and could therefore potentially 
+be used to target nonsense mutations that generate truncated meCP2. Third, small molecules can activate normal MECP2  
+alleles on the inactive X chromosome (Xi)187. A recent study used a mixed- modality approach, combining brain- sp",h,36000
+"specific 
+deletion of X- inactivation master regulator Xist and a small- molecule inhibitor of DNA methylation, to selectively 
+reactivate Xi in mice in vivo188. Fourth, gene editing using CRISPR–Cas9 techniques may be used to correct point 
+mutations. As a complementary proof of principle, the CRISPR–Cas9 technique has been shown to be able to remove 70% of meCP2 protein in the mouse hippocampus
+52. Site- directed RNA editing mediated by double- stranded RNA- specific 
+editase 1 (ADAR2; also known as ADARB1) can correct disease- causing mutations affecting the mouse meCP2 DNA-  
+binding domain in vitro, repairing 72% of Mecp2 mRNA189. Although many technical barriers remain, the potential for 
+gene therapy for RTT warrants further exploration.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 373
+the NCoR–SMRT complex to MeCP2 is also regulated in  
+an activity- dependent manner (see below) ",h,37000
+"e below) and is required 
+for MeCP2-mediated gene repression68,71. Although the 
+relationship between methylation density and MeCP2 
+occupancy across the genome is well established, whether 
+the MeCP2–NCoR–SMRT–HDAC3 complex is recruited in a density- dependent way, and is concentrated in the 
+gene bodies of long genes, remains to be determined.
+Notably, transcriptome analyses have revealed 
+upregulation and downregulation of different genes in MeCP2-deficient mouse brains
+8,72,73. As such, MeCP2 
+has been suggested to also act as a transcriptional acti-
+vator and is thought to do so via its interaction with 
+cAMP-  responsive element-  binding protein 1 (CREB1)8. 
+However, no RTT mutation has yet been reported to 
+interrupt MeCP2–CREB1 interaction. One possible 
+explanation for the downregulation of a large numbers of genes in MeCP2-deficient neurons is that the tran -
+scriptional machinery does not function optimally, as 
+reflected by the reduction of soma size and total RNA 
+in RTT ",h,38000
+"
+in RTT mouse models and in iPSC- derived neurons 
+from individuals with RTT
+57,74. This suggestion is 
+consistent with the proposed function of MeCP2 as a 
+multifunctional hub of cellular metabolism74.
+A recent study suggested that MeCP2 might act as 
+a positive regulator for a subset of neuronal genes via 
+its NID75. At certain gene promoters, MeCP2 recruits 
+HDAC3 to deacetylate the transcription factor fork-
+head box protein O3 (FOXO3) to positively regulate 
+transcription (Fig.  3). In support of this mechanism, 
+Hdac3 -mutant mice (which show RTT- like pheno-
+types) and human iPSC- derived NPCs harbouring 
+MECP2R306C show mislocalization of FOXO3 (outside of 
+gene promoters) and downregulation of target genes75. Nevertheless, this mechanism is surprising, as methyl-ation density and MeCP2 occupancy are known to be low in 
+transcription start sites , and MeCP2 generally binds 
+within gene bodies57,76. To reconcile these observations, 
+one possibility is that the binding of MeCP2 t",h,39000
+"to the gene 
+body represses transcription, whereas its recruitment of 
+HDAC3 to certain gene promoters positively regulates transcription through FOXO3 deacetylation
+75.
+An additional model proposes that MeCP2 directly 
+interacts with DNA and thus modifies chromatin archi-tecture globally
+64,77 (Fig.  3). Mecp 2-null brains show global 
+alterations in neuronal chromatin architecture, including 
+increases in histone acetylation and elevated levels of linker 
+histone H1 (ReF.64). As the NID contains a cluster of basic 
+amino acids, it may act as a DNA- binding domain78. In 
+addition, MeCP2 has three AT hooks  that could bend DNA 
+and assist chromatin- structure remodelling77.
+Also relevant to a role for MeCP2 in maintaining chro-
+matin structure is the interaction between MeCP2 and  
+the transcription regulating helicase ATRX. MeCP2  
+and ATRX colocalize on pericentric heterochromatin, and  
+ATRX is mislocalized in MeCP2-deficient neurons77,79. 
+The MeCP2–ATRX interaction may be importan",h,40000
+"tant 
+for the formation of higher- order chromatin loops77. 
+However, more direct evidence is required to demon-strate how MeCP2 may regulate chromatin structure, as 
+well as the role of a loss of MeCP2–ATRX interactions in RTT pathology.
+Interplay between MeCP2 and miRNAs. miRNAs are 
+important for many developmental processes, includ-ing neurogenesis, brain maturation and synaptic plasticity
+80,81. miRNAs have been reported to be dysreg-
+ulated in the (total) brain, hippocampus and cortex of Repre ssionEarly 
+development
+Early 
+postnata l
+lifeActivity or
+experience
+Strong r epression Derepre ssionMeCP2
+mCG site
+hmCG sitemCA siteDNMT3A TETCA methylationOxidation of 
+mCG to hmCG
+Fig. 2 | A model of MeCP2–DNA interactions. During early development, methyl- CpG-binding protein 2 (MeCP2) binds 
+to genomic methylated CG (mCG) dinucleotide sequences to repress gene expression. During early postnatal life, DNA 
+(cytosine-5)-methyltransferase 3A (DNMT3A) binds across transcribed regions of ge",h,41000
+"f genes that show low expression and dictates DNA methylation at CA sequences (producing methylated CA (mCA) modifications)
+61. Once methylated, mCA is 
+bound by MeCP2, leading to strong repression of gene transcription61. Passive ‘functional demethylation’ can occur 
+through oxidation of mCG to hydroxymethylated CG (hmCG) by the ten- eleven translocation (TET) enzyme. As MeCP2 has 
+a low affinity for hmCG, this modification results in the detachment of MeCP2, leading to derepression of transcription63.
+T ranscription start sites
+The location where 
+transcription starts at the  
+5´ end of a gene sequence. Promoters are located near the 
+transcription start sites of 
+genes.
+AT hooks
+DNA- binding motifs that bind 
+specifically to AT - rich DNA.
+Chromatin loops
+When stretches of genomic sequence in the same 
+chromosome are physically 
+closer together than to the 
+intervening sequences. These 
+are involved in regulating 
+chromatin organization and 
+gene expression.
+© 2018 Macmillan Publish",h,42000
+"ublishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+374 | JUNE 2018 | volUmE 19 
+NCoR–
+SMRT
+NCoR–SMRTKKAc
+KKAc
+KKAc KKAcKKAcKKAc KKAc KKAcNCoR–
+SMR T
+NCoR–
+SMR TMeCP2
+MBD NID/TRDHistone 
+deacetylationNID 
+R306C
+MBD mutantTBL1GPS2HDAC3
+TBL1GPS2HDAC3
+TBL1GPS2HDAC3 FOXO3
+KKAcTBL1GPS2HDAC3Repressor model Permissiv e model Chromatin compaction model miRNA alter ation model
+DROSHADROSHA
+DGCR8DGCR8
+pri-miR -199DROSHA/uni2191 SMAD
+DGCR8
+pri-miR -199pri-miR -134C'C'C' del
+N'DGCR8
+BMP4pri-miR -134DROSHA
+/uni2193 BMP4MBD 
+R106WorTRD V247XWT RTT
+FOXO3
+FOXO3
+Fig. 3 | Proposed molecular effects of MeCP2 and their alterations in RTT. Methyl- CpG-binding protein 2 (MeCP2) 
+has been proposed to recruit the nuclear receptor co- repressor (NCoR)–silencing mediator of retinoic acid (SMRT) 
+complex to methylated DNA to repress transcription68 or permit transcription75 through the action of histone 
+deacetylase 3 (HDAC3) depending on different genomic contexts. MeCP2 in",h,43000
+". MeCP2 interacts directly with transducin β- like 
+protein 1 (TBL1) in the NCoR–SMRT complex via its NCoR–SMRT interaction domain (NID)69. This function is abolished 
+in NID variants of MeCP2, such as R306C MeCP2. MeCP2 has also been suggested to compact chromatin structure 
+through a basic amino acid cluster in its NID as well as via three AT hooks (not shown)77. The carboxyl terminus of 
+MeCP2 binds to the microprocessor complex protein DiGeorge syndrome critical region 8 (DGCR8) and inhibits ribonuclease 3 (DROSHA) from binding; thus, MeCP2 may inhibit the processing of pri- miR-134 
+(ReF.9). In Rett syndrome 
+(RTT) patients with MECP2 mutations that change or truncate the C terminus (for example, the MeCP2 380 truncation), 
+it is expected that MeCP2 binding to DGCR8 is abolished and DROSHA is free to bind and activate pri- miR-134 
+processing. Other methyl- CpG binding domain (MBD)-affecting or truncation- inducing mutations in MECP2 also  
+lead to upregulations of pri- miR-199 in",h,44000
+"99 indirectly , via aberrant bone morphogenetic protein 4 (BMP4) and SMAD 
+signalling41. Ac, acetyl group; C´, carboxyl terminus; FOXO3, forkhead box protein O3; GPS2, G protein pathway 
+suppressor 2; miRNA , microRNA ; TRD, transcriptional repression domain, WT , wild type. Figure adapted from ReF.53, 
+Macmillan Publishers Limited.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 375
+Mecp2-null mice9,82–85; in mouse MeCP2-deficient neu-
+ronal cultures86–89; and in iPSC- derived neuronal cultures 
+and cerebral organoids generated from individuals with 
+RTT41. The importance of miRNA–MeCP2 interactions 
+in understanding RTT is being determined by studies of how MeCP2 loss alters miRNA expression
+9,41,86–89 and the 
+different MeCP2 domains (discussed above) and RTT-  
+associated MECP2 mutations that could be implicated 
+in miRNA alterations9,41.
+MeCP2 represses the transcription of primary miR",h,45000
+"rimary miRNAs  
+(pri- miRNAs), including miR-137, miR-15a, miR-184 
+and miR-7b, by binding to mCG sites in the gene pro -
+moter regions86–89. MeCP2 deficiency results in increased 
+pri- miRNA transcription, which leads to increased 
+mature miRNA levels. Therefore, RTT- associated muta-
+tions in the genetic sequence encoding the MeCP2 MBD 
+and TRD or NID are expected to result in increases in such MeCP2-regulated intergenic miRNAs. Furthermore, 
+MeCP2 can directly inhibit miRNA expression by block -
+ing pri- miRNA processing. MeCP2 may do this by bind-
+ing to the microprocessor protein DiGeorge syndrome 
+critical region 8 (DGCR8) via the carboxy- terminal 
+domain
+9 and thus hindering the interaction of DGCR8 
+with the other main component of the microprocessor 
+complex, ribonuclease 3 (DROSHA) (Fig.  3). This mode of 
+action has been shown to lead to increased pri- miR-134 
+processing and mature miR-134 expression in the hip-
+pocampus of adult Mecp2 -mutant mice9. In individuals 
+with R",h,46000
+"h RTT who carry MECP2 C- terminal mutations or 
+truncations, the binding between MeCP2 and DGCR8 is expected to be abolished, leaving DROSHA free to bind and activate pri-  miR-134 processing 
+(Fig.  3). Intriguingly, 
+MeCP2 loss- mediated increases in miR-137, miR-15a, 
+miR-7b and miR-134 each lead to impaired dendritic maturation
+87,89,90, a major feature of RTT.
+Another set of miRNAs are indirectly regulated by 
+MeCP2. miR-199 is robustly upregulated in iPSC- derived 
+neuronal cultures from individuals with RTT who carry a missense mutation encoding a R106W substitution in the MBD of MeCP2, or a frameshift mutation that results in 
+a truncated transcript (V247X), and in MeCP2-deficient 
+mouse neurons
+41. Bone morphogenic protein 4 (BMP4) 
+activates SMAD signalling, which in turn promotes the 
+processing of pri- miRNAs, and BMP4 is upregulated 
+in certain MeCP2-mutant models91,92. Therefore, the 
+upregulation of mature miR-199 observed in the RTT cultures probably results from elevat",h,47000
+"ted BMP4–SMAD 
+signalling 
+(Fig.  3). The upregulation of miR-199 inhib-
+its extracellular- signal-regulated kinase signalling and 
+disrupts early neuronal development and differentia-tion
+41. Similarly, MeCP2 deficiency results in increased 
+let-7f miRNA expression in the postnatal mouse brain, 
+through reductions in the BDNF- regulated repressor of 
+let-7 miRNA biogenesis, protein lin-28 homologue A  
+(LIN28A)93,94. In turn, this increase in let-7f inhibits the 
+expression of insulin- like growth factor 1 (IGF1) in the 
+postnatal mouse brain84. Treatment with the β2-adrenergic  
+receptor agonist clenbuterol restores the affected mole-cular pathway and ameliorates diverse symptoms of 
+Mecp2
+−/y mice and Mecp2+/− mice84. Taken together, these 
+findings suggest that RTT- relevant mutations70 could 
+alter diverse miRNA pathways downstream of MeCP2 and result in disturbances in brain development and maturation.
+Last, miRNAs may regulate MeCP2 expression. For 
+example, miR-483-5p regulates",h,48000
+"egulates MeCP2 isoforms through 
+a human- specific target site in the 3´-untranslated region 
+of MECP2 in developing neurons
+95. In addition, miR-
+200a and miR-302c inhibit MeCP2 expression in human embryonic stem cells
+96, and miR-130a regulates neurite 
+and synaptic maturation in the developing cortex through its inhibitory effect on MeCP2 expression
+97. Intriguingly, 
+some miRNAs, such as miR-132 and miR-7b, act in a feedback loop as both targets and regulators of MeCP2 
+expression to fine- tune MeCP2 levels in the postnatal 
+brain
+85,89,98.
+MeCP2 binds broadly across the genome; therefore, 
+it will remain a challenge to deduce the primary actions of MeCP2 from RNA analyses. Thus, future studies focusing on MeCP2 binding sites (such as methylated DNA) and relating these to miRNA expression will pro-
+vide crucial information for further analyses of MeCP2 
+function and about the roles of miRNAs in RTT.
+Excitatory and inhibitory circuits
+Neurological symptoms in individuals with RTT an",h,49000
+"nd in Mecp2-mutant mice result from neural circuit altera-
+tions brought on by the loss of MeCP2. In Mecp2-mutant mice, E/I balance in circuits and brain regions is com-plexly altered; the maintenance of this balance is crucial for nearly every aspect of normal brain function.
+Neuronal circuit deficits with MeCP2 loss are region-  
+specific. Somatosensory cortex neurons in brain slices 
+and cultured neurons from Mecp2
+−/y mice exhibit smaller 
+miniature excitatory postsynaptic currents (mEPSCs), 
+with no changes in miniature inhibitory postsynap-
+tic currents (mIPSCs), resulting in an overall reduced excitation
+29,99,100. In vivo whole- cell recordings of vis-
+ually evoked responses in V1 pyramidal neurons reveal 
+a combined reduction of excitatory and inhibitory con-
+ductance in Mecp2−/y mice, with a net increase in the E/I 
+ratio101. Similarly, there is a shift towards hyperexcita-
+tion in the CA1 and CA3 region of the hippocampus 
+in Mecp2−/y mice resulting from reduced mIPSCs102, 
+",h,50000
+"s102, 
+and synaptic hyperexcitability is observed in brainstem areas, including the locus coeruleus
+103, ventrolateral 
+medulla104,105 and nucleus tractus solitarus106.
+As a direct demonstration of the region- specific 
+changes in activity in Mecp2−/y mice, expression of the 
+immediate early gene Fos  is decreased in the forebrain 
+and increased in the hindbrain106. Gene expression ana-
+lyses of different neuronal cell types in Mecp2-knockout mouse brains showed variation in different sets of genes 
+in these different cell populations
+66. Clinically, selective 
+volume reductions in the dorsal parietal and anterior 
+frontal lobe regions in individuals with RTT also suggest 
+that some brain regions are more affected than others17.
+Overall, these studies highlight an intriguing 
+region specificity of disruption to neural circuits that may explain the clinical features of RTT. For exam-ple, reduced excitation and connectivity in forebrain motor areas probably contributes to motor dysfunc -",h,51000
+" -
+tion in RTT, whereas hyperexcitation in the brainstem Primary miRNAs
+(pri- miRNAs). Large primary 
+precursor, hairpin- structured, 
+microRNA transcripts that are 
+subsequently cleaved to 
+generate intermediate 
+precursor microRNAs and 
+mature microRNAs.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+376 | JUNE 2018 | volUmE 19 
+region probably leads to abnormalities in breathing pat-
+terns21. Similarly, hyperexcitability in the hippocampus  
+probably contributes to the limbic seizures observed in  
+Mecp2-mutant mice and people with RTT107.
+Although the mechanisms underlying this region spec-
+ificity remain unclear, two non- mutually exclusive possi-
+bilities can be extrapolated. First, MeCP2 may differentially affect different brain regions. Second, although MeCP2 may function similarly in different regions, some neurons 
+or circuits may be more vulnerable to MeCP2 dysfunction 
+than others, owing to their connectivity (see",h,52000
+"e below).
+MeCP2 loss affects excitatory and inhibitory neurons. 
+Although the molecular effects of MeCP2 seem to be pri-
+marily mediated by its MBD and NID (see previous sec-tion), the functional effects of MeCP2 are region- specific 
+and cell- type-specific (for example, selective for exhibitory 
+or inhibitory neuron subtypes). The functional effects of MeCP2 loss depend on the disruption of E/I imbalance within neuronal circuits
+101, and neuronal circuits seem to 
+be particularly sensitive to MeCP2 loss from inhibitory 
+neurons24. We therefore suggest that the molecular effects 
+of MeCP2 are not equal across functional cell classes and functional brain regions. Deletion of MeCP2 from func-
+tional cell types can provide insights into the primacy of MeCP2 function in specific cell types. One study that used cell- type-specific biotin tagging of MeCP2 in wild-  type 
+mice, Mecp2
+T158M/y mice and Mecp2R106W/y mice to profile 
+nuclear transcriptomes revealed distinct sets of differen-
+tia",h,53000
+"lly regulated genes in excitatory and inhibitory neurons 
+in the Mecp2 mutants67. This finding is consistent with 
+the observation that the landscape of DNA methylation 
+varies between excitatory and inhibitory neurons61,108. If 
+the methylation landscape varies across cell types, MeCP2 may exert different molecular actions in different cell 
+types, leading to cell- specific transcriptional alterations 
+with MeCP2 mutations.
+Several symptoms of whole- brain Mecp2 deletion, 
+including ataxia, repetitive behaviours, deficits in motor coordination and obesity, are strikingly recapitulated in mice with Mecp2 deletion in inhibitory neurons (Viaat - 
+Mecp2
+−/y mice). In addition, the reductions in GABA 
+synthesis and mIPSCs in Viaat - Mecp2−/y mice24 are also 
+observed in whole- brain Mecp2 deletion101, 109. Mice 
+lacking MeCP2 in forebrain excitatory neurons exhibit 
+milder behavioural phenotypes, including tremor and 
+anxiety- like behaviours, which are less evident in mice 
+lacking MeCP2 ",h,54000
+"CP2 in inhibitory neurons110,111. Furthermore, 
+re- expression of MeCP2 in inhibitory neurons, but not 
+in excitatory neurons, rescues motor coordination defi-cits in Mecp2-knockout mice
+110,112. These studies indicate 
+that primary deficits in excitatory signalling or inhibi-
+tory signalling caused by cell- type-specific MeCP2 loss 
+lead to distinct neurological phenotypes.
+Inhibitory neurons and RTT . GABAergic inhibitory neu-
+rons account for up to 20% of the total neurons in the 
+brain113. In particular, subtypes of inhibitory neurons are 
+known to have very different developmental programmes, 
+circuit influences and effects on activity- dependent 
+plasticity113,114. Among the interneuron populations are 
+three major subclasses that directly influence pyramidal neurons: soma- targeting parvalbumin (PV)-expressing 
+neurons, dendrite-  targeting somatostatin (SOM)-
+expressing neurons and vasoactive intestinal polypeptide 
+(VIP)-expressing neurons113,115,116. SOM+ neurons inte -
+grate",h,55000
+" large numbers of inputs117 and seem to be crucial 
+for feedback or top- down modulation118. VIP+ neurons 
+are a subset of the serotonin receptor (5-HT3A)-expressing 
+subclass of inhibitory neurons and receive top- down 
+inputs; they disinhibit pyramidal neurons by inhibiting other inhibitory neurons
+113,119. PV+ neurons form intricate 
+nests of synaptic contacts on the soma of target pyramidal 
+neurons, providing fast control over their excitability115. 
+PV+ neurons, which mainly subserve feedforward inhibi-
+tion and gain control120,121, have been suggested to be the 
+major drivers of E/I balance in cortical circuits122.
+Intriguingly, Mecp2 deletion from different GABAergic 
+neuronal subtypes generates differential and non-  
+overlapping symptoms and phenotypes; mice lacking 
+MeCP2 in PV+ neurons show sensory, motor and memory 
+deficits, whereas mice lacking MeCP2 in SOM+ neurons 
+exhibit seizures and stereotypies123. These different effects 
+of Mecp2 deletion in inhibitory neuron sub",h,56000
+"types possibly 
+reflect the different developmental and integrative circuit properties of these subtypes.
+Anatomically, Mecp2
+−/y mice, particularly juveniles, 
+exhibit more PV+ puncta and increased PV+ neuron 
+connections in the visual cortex compared with wild-  
+type mice109,124. In addition, Mecp2−/y mice show alter -
+ations in NMDAR subunit expression, with a greater 
+NR2A:NR2B ratio in PV+ neurons, suggesting abnor -
+mally accelerated NMDAR maturation125. Reducing 
+NR2A expression in Mecp2−/y mice (achieved by cross-
+ing heterozygous Mecp2+/− mice with NR2A- deficient 
+males) reduces the PV+-cell hyperconnectivity and 
+prevents the regression of visual acuity109,125. However, 
+reductions in inhibition — including reduced PV+ neu-
+ron responses — have consistently been reported in V1 of adult Mecp2
+−/y mice, Viaat - Mecp2−/y mice (which lack 
+MeCP2 from all GABAergic cells) and PV+ cell- specific 
+Mecp2−/y mice24,101. In addition, brain- wide Mecp2−/y mice 
+and mice lacking Mecp2 ",h,57000
+" mice lacking Mecp2 from PV+ cells display impaired 
+processing of complex visual stimuli by neurons in the visual cortex, consistent with severely reduced inhibition 
+in vivo
+101,126.
+One proposed explanation to reconcile reports of 
+hyperconnectivity of PV+ neurons with reduced func-
+tional inhibition of pyramidal neurons in Mecp2-mutant 
+mice is that the effectiveness of GABA as an inhibitory 
+neurotransmitter may be altered in RTT mouse mod-els. Indeed, recent studies (see below) demonstrate that GABA is less hyperpolarizing in Mecp2-mutant 
+mice
+101 and in iPSC- derived neurons generated from 
+RTT patients127. Thus, PV+ neuron hyperconnectivity 
+may represent a homeostatic, compensatory response to the reduction in inhibition in cortical circuits 
+(Fig.  4). 
+Neurodevelopmental disorders are marked by germline or early genetic mutations and a cascade of changes 
+that are superimposed on developmental programmes of growth and plasticity; altogether, these factors lead to altered ne",h,58000
+"neuronal wiring and function. Thus, direct 
+and indirect effects are deeply intertwined in creating 
+functional as well as dysfunctional neural circuits
+33.Stereotypies
+Diagnostic repetitive 
+behaviours. Patients with RTT 
+develop repetitive hand 
+movements, a diagnostic 
+criterion for RTT . Mouse 
+models of RTT also develop 
+repetitive behaviour.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 377
+KCC2:NKCC1 imbalance in RTT . The neuronal cation–
+chloride co- transporters KCC2 (a K+/Cl− exporter) and 
+NKCC1 (a Na+/K+/Cl− importer) set the transmem-
+brane chloride gradient and determine the maturation 
+of GABAergic inhibition128, 129. During typical brain 
+development, GABAergic currents shift their polar -
+ity from depolarization to hyperpolarization as the 
+KCC2:NKCC1 ratio increases. GABA typically hyper -
+polarizes (inhibits) mature neurons, as they have very low intracellular chloride",h,59000
+"hloride levels, whereas GABA has less 
+inhibitory, or even depolarizing (excitatory), effects on 
+immature neurons, which show high intracellular chlo-ride concentrations
+130. Increased intracellular chloride 
+concentrations and KCC2–NKCC1 imbalance have been 
+reported in animal models of fragile X syndrome  and in 
+other neurological and neuropsychiatric disorders131,132.
+Recent evidence suggests that such alterations are 
+also present in RTT. Cerebrospinal fluid samples from 
+individuals with RTT have revealed that levels of KCC2 relative to NKCC1 are reduced
+133. The expression of 
+KCC2 in iPSC- derived neuronal cultures generated from 
+individuals with RTT, and in V1 of Mecp2−/y mice, is also 
+reduced, and this reduction causes the reversal potential  
+of GABA to be less negative than in controls101, 127. 
+Overexpression of KCC2 in iPSC- derived neurons gen-
+erated from individuals with RTT rescues this functional deficit
+127. IGF1 treatment, which partially rescues behav-
+ioural a",h,60000
+"al and synaptic deficits in mutant mouse models of 
+RTT29,134, also increases the KCC2:NKCC1 ratio by pro-
+moting KCC2 expression and restoring the inhibitory action of GABA
+135. Thus, the circuit effects of MeCP2 
+loss crucially include reduced inhibition owing to reduced KCC2 expression and a reduced KCC2:NKCC1 
+ratio 
+(Fig.  4).
+Activity- dependent plasticity
+Neuronal circuits are subject to experience- driven136,137 
+or learning- driven138– 140 changes that cause neurons 
+within a microcircuit or an ensemble to modify their 
+functional connectivity and responses141. The devel -
+opment of excitatory142 and inhibitory143 microcircuits 
+and the maintenance of E/I balance122 require activity-  
+dependent mechanisms, including Hebbian and homeo-static plasticity. Whereas the term Hebbian plasticity 
+describes associative and input-  specific potentiation 
+or depression of the strength of a synapse, homeo-static plasticity describes a negative feedback-  driven 
+mechanism that maintains ",h,61000
+"ns appropriate levels of over -
+all activity and synaptic strength in neurons and cir -
+cuits
+144. Together, these mechanisms enable neuronal 
+activity to induce pleotropic effects on gene expres-
+sion to regulate synaptic molecule levels and function, 
+and allow neuronal circuits to respond dynamically  
+to experience.
+Impaired homeostatic machinery resulting in 
+altered experience- dependent refinement of circuits 
+may be a core functional mechanism underlying autism and RTT
+33,145,146. Recent evidence indicates that 
+early- life experience or changes in activity, such as that 
+induced by dark rearing, alter methylation, which influ-ences MeCP2 binding and hence gene expression
+61. The 
+reverse is also true: Mecp2 mutations result in changes in experience- dependent plasticity, including (but not 
+limited to) homeostatic plasticity147– 149. For example, 
+retinogeniculate synapses  in Mecp2-null mice show a 
+lack of experience- dependent refinement, despite an 
+apparently normal initi",h,62000
+"tial development of synaptic 
+Ex
+PV
+/uni2191Cl–NKCC 1
+Na+/K+
+2Cl–Cl–Cl–GABAR
+Reduced inhibitory 
+drive:
+/uni2193 GAD1 and GAD2
+/uni2193 GABA
+Ex
+PV
+Reduced inhibitory 
+drive:
+/uni2193 GAD1 and GAD2
+/uni2193 GABAReduced GABA 
+action:
+/uni2193 KCC2
+Reduced GABA 
+action:
+/uni2193 KCC2
+Joint r eduction of excitation and inhibition(Conditional) 
+Mecp2 knockout
+PV+ interneur on 
+hyperc onnectivityReduced pyr amidal 
+cell excitationK+
+Homeostatic 
+responses
+Na+/K+
+2Cl–Cl–Cl–K+
+Fig. 4 | Effects of MeCP2 deficiency in inhibitory 
+neurons and excitation–inhibition balance. Deletion of 
+methyl- CpG-binding protein 2 (MeCP2) in all forebrain 
+neurons or only in inhibitory neurons (such as parvalbumin (PV)-positive neurons) reduces GABA synthesis, glutamate decarboxylase 1 (GAD1) and GAD2 levels and miniature inhibitory postsynaptic currents, and thus reduces inhibition onto excitatory pyramidal neurons (green cells). The effectiveness of GABA as an inhibitory 
+neurotransmitter is also altered in Me",h,63000
+"so altered in MeCP2-deficient 
+neurons. Reduced levels of the K
++/Cl− exporter KCC2 
+relative to the Na+/K+/Cl− symporter NKCC1 have been 
+found in cells with mutations in the gene encoding MeCP2, resulting in neurons with higher levels of intracellular chloride, and hence a reduction in the reversal potential for GABA and reduced inhibitory drive to pyramidal neurons. We suggest that homeostatic compensation for the reduction in inhibition leads to hyperconnectivity of PV
++ 
+neurons and reduced excitatory drive onto pyramidal neurons, resulting in a joint reduction of excitation and inhibition in cortical circuits. Dashed arrows depict reduced function and solid arrows depict normal function. Ex, excitatory ; GABAR , GABA receptor .Fragile X syndrome
+A genetic disorder, caused by 
+mutations in the FMR1 gene, 
+that includes developmental 
+problems such as learning 
+disabilities and cognitive 
+impairment.
+Reversal potential
+The membrane potential at which a given ion has no net 
+current",h,64000
+"rent flow through the cell 
+membrane.
+Retinogeniculate synapses
+Synaptic connections projecting directly from retinal 
+ganglion cells in the retina to 
+the neurons in the lateral 
+geniculate nucleus.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+378 | JUNE 2018 | volUmE 19 
+connectivity150. Mecp2-mutant mice also show substan-
+tial impairments in experience- dependent plasticity in 
+the visual cortex29,134. Closure of one eye during a criti-
+cal period of development can cause ocular dominance 
+plasticity, which leads to decreased and increased visual 
+cortex responses to the deprived and non- deprived 
+eye, respectively151. In Mecp2-mutant mice, the critical 
+period during which ocular dominance plasticity can 
+be induced is prolonged and extends into adulthood, 
+mainly because adult mice still show a persistent home-ostatic upscaling of cortical responses to stimulation of the non-  deprived eye
+134. Similarly, PV+ cell-  ",h,65000
+" specific 
+Mecp2−/y mice exhibit deprivation- induced plasticity 
+in adulthood, accompanied by a reduction of inhibi-
+tion101. This persistent experience- dependent plasticity 
+is corrected by treatment with IGF1, which has cru -
+cial roles in the maturation of PV+ circuits as well as 
+GABAergic inhibition29,101. A critical level of inhibition 
+is also required to initiate plasticity. PV+-cell- specific 
+Mecp2−/y mice fail to show ocular dominance plasticity 
+during the critical period, consistent with a reduc-tion of inhibition, and restoring inhibition through 
+intracortical infusion of the GABA agonist diazepam restores plasticity
+126.
+The activity- induced phosphorylation of MeCP2 at 
+the NID is important for activity- dependent plasticity. 
+Neuronal activity induces phosphorylation of MeCP2 at several sites, including T308 
+(ReF.71). Phosphorylation at 
+T308 blocks the interaction of MeCP2 with the NCoR–
+SMRT complex, thus suppressing the ability of MeCP2 
+to repress transcription",h,66000
+"iption71. A human RTT- associated 
+missense mutation in MECP2 , leading to a R306C substi -
+tution, abolishes phosphorylation of MeCP2 at T308 and the interaction of MeCP2 with the NCoR–SMRT com-plex
+68,71. Importantly, both Mecp2R306C and Mecp2T308A 
+knock- in mice show RTT- like behavioural phenotypes, 
+although Mecp2R306C knock- in mice display a more severe 
+phenotype68,71. A subset of activity- regulated genes that 
+influence inhibitory neurons, including Npas4 and 
+Bdnf , are downregulated in Mecp2T308A mice71, possibly 
+providing a molecular mechanism for the alterations in inhibition in these animals. Thus, dysregulation of 
+activity- dependent signalling that is normally mediated 
+by the NID of MeCP2 likely contributes crucially to RTT pathophysiology.
+Conclusions and perspectives
+MeCP2 has spatiotemporally diverse effects depending on brain regions, phases of development and cell types. 
+MeCP2 regulates multiple stages of brain development, 
+including prenatal neurogenesis, p",h,67000
+" postnatal development of synaptic connections and function, and experience- dependent refinement of neural circuits. Like many 
+other brain disorders, RTT is associated with dysfunc-
+tion reflective of functional failure at several levels, including the levels of gene regulation, molecular expres-sion, synaptic function and neuronal circuitry, and at 
+various developmental stages.
+Accumulating evidence indicates that the primary 
+role of MeCP2 is transcriptional repression, with the 
+MBD and NID of MeCP2 connecting methylated DNA 
+with the NCoR–SMRT co- repressor complex. However, it remains unclear how certain missense mutations, such 
+as that encoding the T158M substitution in the MBD, confer more severe clinical symptoms than do mutations 
+affecting the NID (such as that encoding the R306C sub-
+stitution)
+152. Examining transcriptomes associated with 
+different RTT mutations could provide critical insights 
+into the differences in clinical severity.
+At the molecular level, one majo",h,68000
+"jor question is how 
+MeCP2 loss produces the subtle yet widespread effects 
+on neuron- enriched long genes, key activity- dependent 
+signalling pathways and a large array of miRNAs. All of these effects may reflect the ability of MeCP2 to interact widely across the genome. To better under -
+stand the functions of MeCP2, an important next step 
+will be to evaluate, in detail, the molecular events that 
+occur following MeCP2 binding to the gene bod-ies across the genome. Another feature of RTT to be resolved is a reduction in total RNA
+57,74, which is poten-
+tially due to suboptimal functioning of transcriptional 
+machinery and which may explain the large number of 
+downregulated genes in RTT.
+The molecular mechanisms of MeCP2 loss manifest 
+as dysfunction in brain circuits. The wiring and func-
+tion of brain circuits depend on proper functioning of  
+inhibitory and excitatory neurons and maintenance 
+of E/I balance, all of which require MeCP2. A major functional contributor to RTT pheno",h,69000
+"types is altera-
+tion of inhibition, owing to altered gene expression in 
+GABAergic neurons and a reduction in inhibitory drive onto pyramidal cells. Importantly, the NID mediates activity- dependent functions of MeCP2 and hence 
+probably influences activity- dependent maturation of 
+inhibitory neurons and the function of GABA receptors.
+A key outstanding question is how a loss of the 
+molecular functions of MeCP2 leads to the functional 
+circuit deficits in RTT phenotypes. Are there cell-  
+type-specific effects of the loss of the normal molecular 
+mechanisms of MeCP2? In particular, it will be impor -
+tant to establish the effects of mutations affecting the 
+MBD or NID on PV
++ neurons and to investigate how 
+these domains shape the properties of PV+ neurons and 
+hence functional circuits. Experimentally, combining single- cell RNA sequencing and physiology offers an 
+opportunity to dissect such alterations, thus bridg-
+ing molecular dysregulation and circuit dysfunction following MeC",h,70000
+"P2 loss.
+The development of treatment strategies 
+(BoX 3) must 
+take into account the functional properties of MeCP2 dis-
+cussed in this Review and consider the therapeutic tar -
+get, brain region, cell type and time of application. More 
+directly targeted therapeutics that are administered as early as possible are likely to be the most effective. Gene therapy 
+is a potentially powerful approach 
+(BoX 3), although, nota-
+bly, the protein level of MeCP2 must be tightly titrated, as overdosage of MeCP2, similar to MECP2 duplication, 
+would lead to severe neurological consequences
+153– 155. 
+A fuller understanding of RTT based on our increasing 
+knowledge of the neurobiology and function of MeCP2, 
+together with rapidly advancing genome- editing tools, 
+could lead to an effective treatment for RTT.
+Published online 08 May 2018
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 379
+1. Chahrour, M.",h,71000
+"r, M. & Zoghbi, H. Y. The story of Rett 
+syndrome: from clinic to neurobiology. Neuron 56, 
+422–437 (2007).
+2. Laurvick, C. L. et al. Rett syndrome in Australia: a review 
+of the epidemiology. J. Pediatr. 148, 347–352 (2006).
+3. T rappe, R. et al. MECP2 mutations in sporadic cases of 
+Rett syndrome are almost exclusively of paternal 
+origin. Am. J. Hum. Genet. 68, 1093–1101 (2001).
+4. Neul, J. L. et al. Specific mutations in methyl- CpG-binding protein 2 confer different severity in Rett 
+syndrome. Neurology 70, 1313–1321 (2008).
+5. Neul, J. L. et al. Rett syndrome: revised diagnostic 
+criteria and nomenclature. Ann. Neurol. 68, 944–950 
+(2010).
+6. Schüle, B., Armstrong, D. D., Vogel, H., Oviedo, A. & 
+Francke, U. Severe congenital encephalopathy caused by MECP2 null mutations in males: central hypoxia 
+and reduced neuronal dendritic structure. Clin. Genet.  
+74, 116–126 (2008).
+7. Lewis, J. D. et al. Purification, sequence, and cellular localization of a novel chromosomal protein that",h,72000
+"somal protein that binds to methylated DNA. Cell 69, 905–914 (1992).
+8. Chahrour, M. et al. MeCP2, a key contributor to neurological disease, activates and represses 
+transcription. Science 320, 1224–1229 (2008).
+9. Cheng, T . L. et al. MeCP2 suppresses nuclear 
+microRNA processing and dendritic growth by 
+regulating the DGCR8/Drosha complex. Dev. Cell 28, 
+547–560 (2014).
+10. Dolce, A. et al. Rett syndrome and epilepsy: an update 
+for child neurologists. Pediatr. Neurol. 48, 337–345 
+(2013).
+11. Leonard, H., Cobb, S. & Downs, J. Clinical and 
+biological progress over 50 years in Rett syndrome. 
+Nat. Rev. Neurol. 13, 37–51 (2016).
+12. von T etzchner, S. et al. Vision, cognition and developmental characteristics of girls and women with 
+Rett syndrome. Dev. Med. Child Neurol. 38, 212–225 
+(1996).
+13. LeBlanc, J. J. et al. Visual evoked potentials detect 
+cortical processing deficits in Rett syndrome. Ann. Neurol. 78, 775–786 (2015).
+14. Neul, J. L. The relationship of Rett syndrome and M",h,73000
+"Rett syndrome and MECP2 disorders to autism. Dialogues Clin. Neurosci.  
+14, 253–262 (2012).
+15. American Psychiatric Association (eds). Diagnostic and 
+Statistical Manual of Mental Disorders, Fifth Edition 
+(American Psychiatric Publishing, 2013).
+16. Armstrong, D., Dunn, J. K., Antalffy, B. & T rivedi, R. Selective dendritic alterations in the cortex of Rett syndrome. J. Neuropathol. Exp. Neurol. 54, 195–201 
+(1995).
+17. Carter, J. C. et al. Selective cerebral volume reduction in Rett Syndrome: a multiple- approach MR imaging 
+study. AJNR Am. J. Neuroradiol. 29, 436–441 (2008).
+18. Amir, R. E. et al. Rett syndrome is caused by mutations in X- linked MECP2, encoding methyl- CpG-
+binding protein 2. Nat. Genet. 23, 185–188 (1999).
+19. Chen, R. Z., Akbarian, S., T udor, M. & Jaenisch, R. Deficiency of methyl- CpG binding protein-2 in CNS 
+neurons results in a Rett- like phenotype in mice. Nat. 
+Genet. 27, 327–331 (2001).
+20. Guy, J., Hendrich, B., Holmes, M., Martin, J. E. &  
+Bird, A. A",h,74000
+" 
+Bird, A. A mouse Mecp2-null mutation causes neurological symptoms that mimic Rett syndrome. Nat. Genet. 27, 322–326 (2001).
+21. Ward, C. S. et al. MeCP2 is critical within HoxB1-derived tissues of mice for normal lifespan. J. Neurosci. 31, 10359–10370 (2011).
+22. Huang, T .-W. et al. Progressive changes in a 
+distributed neural circuit underlie breathing 
+abnormalities in mice lacking MeCP2. J. Neurosci. 36, 
+5572–5586 (2016).
+23. Samaco, R. C. et al. Loss of MeCP2 in aminergic neurons causes cell- autonomous defects in 
+neurotransmitter synthesis and specific behavioral abnormalities. Proc. Natl Acad. Sci. USA 106, 
+21966–21971 (2009).
+24. Chao, H.-T . et al. Dysfunction in GABA signalling 
+mediates autism- like stereotypies and Rett syndrome 
+phenotypes. Nature 468, 263–269 (2010).  
+This study shows that mice with Mecp2 deleted 
+only in GABAergic neurons recapitulate many of the 
+deficits observed in global knockout mice, suggesting that MeCP2 is crucial for the normal 
+function o",h,75000
+"al 
+function of GABAergic neurons and that the 
+dysfunction of GABAergic neurons contributes to 
+RTT phenotypes.
+25. Lioy, D. T . et al. A role for glia in the progression of 
+Rett’s syndrome. Nature 475, 497–500 (2011). This 
+paper shows that expression of MeCP2 exclusively in astrocytes rescues some of the major deficits in MeCP2-deficient mice, suggesting that MeCP2 does not function only in neurons and has  
+non- cell-autonomous effects.
+26. Derecki, N. C. et al. Wild- type microglia arrest 
+pathology in a mouse model of Rett syndrome. Nature  
+484, 105–109 (2012).
+27. Wang, J. et al. Wild- type microglia do not reverse 
+pathology in mouse models of Rett syndrome. Nature  
+521, E1–E4 (2015).
+28. Schafer, D. P . et al. Microglia contribute to circuit defects in Mecp2 null mice independent of microglia-  
+specific loss of Mecp2 expression. eLife 5, e15224 
+(2016).
+29. T ropea, D. et al. Partial reversal of Rett Syndrome- like 
+symptoms in MeCP2 mutant mice. Proc. Natl Acad. Sci. USA ",h,76000
+"ad. Sci. USA 106, 2029–2034 (2009).  
+This paper shows that systemic treatment of 
+MeCP2-mutant mice with a truncated form of IGF1 
+restores excitatory synapses and improves 
+neurological deficits.
+30. Fukuda, T ., Itoh, M., Ichikawa, T ., Washiyama, K. & 
+Goto, Y. Delayed maturation of neuronal architecture 
+and synaptogenesis in cerebral cortex of Mecp2-
+deficient mice. J. Neuropathol. Exp. Neurol. 64,  
+537–544 (2005).
+31. Smrt, R. D. et al. Mecp2 deficiency leads to delayed maturation and altered gene expression in 
+hippocampal neurons. Neurobiol. Dis. 27, 77–89 
+(2007).
+32. Cohen, S. & Greenberg, M. E. Communication 
+between the synapse and the nucleus in neuronal 
+development, plasticity, and disease. Annu. Rev. Cell 
+Dev. Biol. 24, 183–209 (2008).
+33. Nelson, S. B. & Valakh, V. Excitatory/inhibitory balance and circuit homeostasis in autism spectrum disorders. Neuron 87, 684–698 (2015).
+34. Shahbazian, M. D., Antalffy, B., Armstrong, D. L. & 
+Zoghbi, H. Y. Insight into Rett synd",h,77000
+"o Rett syndrome: MeCP2 levels 
+display tissue- and cell- specific differences and 
+correlate with neuronal maturation. Hum. Mol. Genet.  
+11, 115–124 (2002).
+35. Kishi, N. & Macklis, J. D. MECP2 is progressively 
+expressed in post- migratory neurons and is involved in 
+neuronal maturation rather than cell fate decisions. 
+Mol. Cell Neurosci. 27, 306–321 (2004).
+36. Fehr, S. et al. Altered attainment of developmental 
+milestones influences the age of diagnosis of Rett 
+syndrome. J. Child Neurol. 26, 980–987 (2011).
+37. Einspieler, C., Kerr, A. M. & Prechtl, H. F. R. Is the early development of girls with Rett disorder really normal? Pediatr. Res. 57, 696–700 (2005).
+38. Einspieler, C., Kerr, A. M. & Prechtl, H. F. R. Abnormal 
+general movements in girls with Rett disorder: the first 
+four months of life. Brain Dev. 27, S8–S13 (2005).
+39. Marschik, P . B. et al. Changing the perspective on 
+early development of Rett syndrome. Res. Dev. Disabil.  
+34, 1236–1239 (2013).
+40. Neul, J. L. et ",h,78000
+"eul, J. L. et al. Developmental delay in Rett 
+syndrome: data from the natural history study.  
+J. Neurodev. Disord. 6, 20 (2014).
+41. Mellios, N. et al. MeCP2-regulated miRNAs control 
+early human neurogenesis through differential effects 
+on ERK and AKT signaling. Mol. Psychiatry 23, 
+1051–1065 (2018).  
+This study examines cerebral organoids of iPSC-  
+derived cells from individuals with RTT, showing 
+dysregulation of miR-199 and miR-214 signalling 
+and early developmental defects.
+42. Bedogni, F. et al. Defects during Mecp2 null embryonic cortex development precede the onset of 
+overt neurological symptoms. Cereb. Cortex 26, 
+2517–2529 (2016).
+43. Kim, K. Y., Hysolli, E. & Park, I. H. Neuronal 
+maturation defect in induced pluripotent stem cells from patients with Rett syndrome. Proc. Natl Acad. 
+Sci. USA 108, 14169–14174 (2011).
+44. T sujimura, K., Abematsu, M., Kohyama, J., Namihira, M. & Nakashima, K. Neuronal differentiation of neural 
+precursor cells is promoted by the methyl-",h,79000
+"e methyl- CpG-binding 
+protein MeCP2. 
+Exp. Neurol. 219, 104–111 (2009).
+45. Stancheva, I. et al. A mutant form of MeCP2 protein 
+associated with human Rett syndrome cannot be 
+displaced from methylated DNA by notch in Xenopus  
+embryos. Mol. Cell 12, 425–435 (2003).
+46. Gao, H. et al. Mecp2 regulates neural cell differentiation by suppressing the Id1 to Her2 axis in 
+zebrafish. J. Cell Sci. 128, 2340–2350 (2015).
+47. Guy, J., Gan, J., Selfridge, J., Cobb, S. & Bird, A. Reversal of neurological defects in a mouse model of 
+Rett syndrome. Science 315, 1143–1147 (2007).
+48. Giacometti, E., Luikenhuis, S., Beard, C. & Jaenisch, R. 
+Partial rescue of MeCP2 deficiency by postnatal activation of MeCP2. Proc. Natl Acad. Sci. USA 104, 
+1931–1936 (2007).
+49. McGraw, C. M., Samaco, R. C. & Zoghbi, H. Y. Adult 
+neural function requires MeCP2. Science 333, 186 
+(2011).
+50. Nguyen, M. V. C. et al. MeCP2 is critical for 
+maintaining mature neuronal networks and global 
+brain anatomy during late stag",h,80000
+"ing late stages of postnatal brain 
+development and in the mature adult brain.  
+J. Neurosci. 32, 10021–10034 (2012).
+51. Du, F. et al. Acute and crucial requirement for MeCP2 
+function upon transition from early to late adult stages 
+of brain maturation. Hum. Mol. Genet. 25,  
+1690–1702 (2016).
+52. Swiech, L. et al. In vivo interrogation of gene function 
+in the mammalian brain using CRISPR- Cas9. Nat. 
+Biotechnol. 33, 102–106 (2014).
+53. Lyst, M. J. & Bird, A. Rett syndrome: a complex 
+disorder with simple roots. Nat. Rev. Genet. 16,  
+261–275 (2015).
+54. Meehan, R., Lewis, J. D. & Bird, A. P . Characterization of MECP2, a vertebrate DNA binding protein with affinity for methylated DNA. Nucleic Acids Res. 20, 
+5085–5092 (1992).
+55. Nan, X. et al. T ranscriptional repression by the methyl-  
+CpG-binding protein MeCP2 involves a histone deacetylase complex. Nature 393, 386–389 (1998).
+56. Kinde, B., Gabel, H. W., Gilbert, C. S., Griffith, E. C. & 
+Greenberg, M. E. Reading the unique DN",h,81000
+"ng the unique DNA methylation landscape of the brain: non- CpG 
+methylation, hydroxymethylation, and MeCP2. Proc. Natl Acad. Sci. USA 112, 6800–6806 (2015).
+57. Lagger, S. et al. MeCP2 recognizes cytosine 
+methylated tri- nucleotide and di- nucleotide sequences 
+to tune transcription in the mammalian brain. PLoS 
+Genet. 13, e1006793 (2017).
+58. Guo, J. U. et al. Distribution, recognition and 
+regulation of non- CpG methylation in the adult 
+mammalian brain. Nat. Neurosci. 17, 215–222 
+(2013).
+59. Gabel, H. W. et al. Disruption of DNA- methylation-
+dependent long gene repression in Rett syndrome. 
+Nature 522, 89–93 (2015).  
+This paper demonstrates that MeCP2 binds to 
+mCA sites and this binding represses the 
+expression of long genes.
+60. Kinde, B., Wu, D. Y., Greenberg, M. E. & Gabel, H. W. 
+DNA methylation in the gene body influences MeCP2-mediated gene repression. Proc. Natl Acad. Sci. USA  
+113, 15114–15119 (2016).
+61. Stroud, H. et al. Early- life gene expression in neurons 
+modul",h,82000
+"urons 
+modulates lasting epigenetic states. Cell 171,  
+1151–1164.e16 (2017).  
+This study shows that DNMT3A specifies the pattern of DNA methylation at CA sites, which in turn directs the binding of MeCP2 and regulates 
+the transcription of genes.
+62. Mellén, M., Ayata, P ., Dewell, S., Kriaucionis, S. & 
+Heintz, N. MeCP2 binds to 5hmC enriched within 
+active genes and accessible chromatin in the nervous system. Cell 151, 1417–1430 (2012).
+63. Mellén, M., Ayata, P . & Heintz, N. 
+5-Hydroxymethylcytosine accumulation in postmitotic neurons results in functional demethylation of 
+expressed genes. Proc. Natl Acad. Sci. USA 114, 
+E7812–E7821 (2017).
+64. Skene, P . J. et al. Neuronal MeCP2 is expressed at 
+near histone- octamer levels and globally alters the 
+chromatin state. Mol. Cell 37, 457–468 (2010).
+65. Shah, R. R. & Bird, A. P . MeCP2 mutations: progress 
+towards understanding and treating Rett syndrome. Genome Med. 9, 17 (2017).
+66. Sugino, K. et al. Cell- type-specific repression ",h,83000
+" repression by 
+methyl- CpG-binding protein 2 is biased toward long 
+genes. J. Neurosci. 34, 12877–12883 (2014).
+67. Johnson, B. S. et al. Biotin tagging of MeCP2 in mice 
+reveals contextual insights into the Rett syndrome 
+transcriptome. Nat. Med. 23, 1203–1214 (2017).
+68. Lyst, M. J. et al. Rett syndrome mutations abolish the 
+interaction of MeCP2 with the NCoR/SMRT co-  
+repressor. Nat. Neurosci. 16, 898–902 (2013).  
+This study identifies the NID in MeCP2 and demonstrates that RTT- causing mutations in the 
+NID abolish the interaction between MeCP2 and the NCoR–SMRT co- repressor complexes.
+69. Kruusvee, V. et al. Structure of the MeCP2-TBLR1 
+complex reveals a molecular basis for Rett syndrome and related disorders. Proc. Natl Acad. Sci. USA 114, 
+E3243–E3250 (2017).
+70. Tillotson, R. et al. Radically truncated MeCP2 rescues 
+Rett syndrome- like neurological defects. Nature 550, 
+398–401 (2017).  
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.ww",h,84000
+"ights reserved.www.nature.com/nrnReviews
+380 | JUNE 2018 | volUmE 19 This study establishes that truncated MeCP2 
+protein retaining only the MBD and NID is able to 
+rescue neurological symptoms when introduced 
+into MeCP2-deficient mice.
+71. Ebert, D. H. et al. Activity- dependent phosphorylation 
+of MECP2 T308 regulates interaction with NCoR. Nature 499, 341–345 (2013).
+72. Ben- Shachar, S., Chahrour, M., Thaller, C., Shaw, C. A. 
+& Zoghbi, H. Y. Mouse models of MeCP2 disorders 
+share gene expression changes in the cerebellum and 
+hypothalamus. Hum. Mol. Genet. 18, 2431–2442 
+(2009).
+73. T udor, M., Akbarian, S., Chen, R. Z. & Jaenisch, R. T ranscriptional profiling of a mouse model for Rett 
+syndrome reveals subtle transcriptional changes in the 
+brain. Proc. Natl Acad. Sci. USA 99, 15536–15541 
+(2002).
+74. Li, Y. et al. Global transcriptional and translational 
+repression in human- embryonic-stem- cell-derived Rett 
+syndrome neurons. Cell Stem Cell 13, 446–458 
+(2013).  
+This study ",h,85000
+"his study inactivates MECP2 in human iPSC-  
+derived neurons and shows a global alteration of 
+RNA transcripts.
+75. Nott, A. et al. Histone deacetylase 3 associates with MeCP2 to regulate FOXO and social behavior. Nat. Neurosci. 19, 1497–1505 (2016).
+76. Ciernia, A. V. & LaSalle, J. The landscape of DNA methylation amid a perfect storm of autism 
+aetiologies. Nat. Rev. Neurosci. 17, 411–423  
+(2016).
+77. Baker, S. A. et al. An AT - hook domain in MeCP2 
+determines the clinical course of Rett syndrome and related disorders. Cell 152, 984–996 (2013).
+78. Heckman, L. D., Chahrour, M. H. & Zoghbi, H. Y. Rett-  
+causing mutations reveal two domains critical for 
+MeCP2 function and for toxicity in MECP2 duplication 
+syndrome mice. eLife 3, e02676 (2014).
+79. Nan, X. et al. Interaction between chromatin proteins MECP2 and ATRX is disrupted by mutations that 
+cause inherited mental retardation. Proc. Natl Acad. Sci. USA 104, 2709–2714 (2007).
+80. Krol, J., Loedige, I. & Filipowicz, W. The wide",h,86000
+"W. The widespread regulation of microRNA biogenesis, function and decay. Nat. Rev. Genet. 11, 597–610 (2010).
+81. Mellios, N. & Sur, M. The emerging role of microRNAs 
+in schizophrenia and autism spectrum disorders. Front. Psychiatry 3, 39 (2012).
+82. Wu, H. et al. Genome- wide analysis reveals methyl-  
+CpG-binding protein 2-dependent regulation of microRNAs in a mouse model of Rett syndrome. Proc. Natl Acad. Sci. USA 107, 18161–18166 (2010).
+83. Urdinguio, R. G. et al. Disrupted microRNA expression 
+caused by Mecp2 loss in a mouse model of Rett syndrome. Epigenetics 5, 656–663 (2010).
+84. Mellios, N. et al. β
+2-Adrenergic receptor agonist 
+ameliorates phenotypes and corrects microRNA-  
+mediated IGF1 deficits in a mouse model of Rett syndrome. Proc. Natl Acad. Sci. USA 111,  
+9947–9952 (2014).
+85. Klein, M. E. et al. Homeostatic regulation of MeCP2 
+expression by a CREB- induced microRNA.  
+Nat. Neurosci. 10, 1513–1514 (2007).
+86. Nomura, T . et al. MeCP2-dependent repression of an 
+",h,87000
+"pression of an 
+imprinted miR-184 released by depolarization.  
+Hum. Mol. Genet. 17, 1192–1199 (2008).
+87. Gao, Y. et al. Inhibition of miR-15a promotes BDNF expression and rescues dendritic maturation deficits  
+in MeCP2-deficient neurons. Stem Cells 33,  
+1618–1629 (2015).
+88. Szulwach, K. E. et al. Cross talk between microRNA and epigenetic regulation in adult neurogenesis. J. Cell 
+Biol. 189, 127–141 (2010).
+89. Chen, Y., Shin, B. C., Thamotharan, S. &  
+Devaskar, S. U. Differential methylation of the micro-  
+RNA 7b gene targets postnatal maturation of murine 
+neuronal Mecp2 gene expression. Dev. Neurobiol. 74, 
+407–425 (2014).
+90. Smrt, R. D. et al. MicroRNA miR-137 regulates neuronal maturation by targeting ubiquitin ligase mind bomb-1. Stem Cells 28, 1060–1070 (2010).
+91. Davis, B. N., Hilyard, A. C., Lagna, G. & Hata, A. 
+SMAD proteins control DROSHA- mediated microRNA 
+maturation. Nature 454, 56–61 (2008).
+92. Li, H., Zhong, X., Chau, K. F., Williams, E. C. &  
+Chang, Q. Loss",h,88000
+"
+Chang, Q. Loss of activity- induced phosphorylation of 
+MeCP2 enhances synaptogenesis, LTP and spatial memory. Nat. Neurosci. 14, 1001–1008 (2011).
+93. Huang, Y.-W. A., Ruiz, C. R., Eyler, E. C. H., Lin, K. & Meffert, M. K. Dual regulation of miRNA biogenesis 
+generates target specificity in neurotrophin- induced 
+protein synthesis. Cell 148, 933–946 (2012).94. Piskounova, E. et al. Lin28A and Lin28B inhibit let-7 
+microRNA biogenesis by distinct mechanisms. Cell  
+147, 1066–1079 (2011).
+95. Han, K. et al. Human- specific regulation of MeCP2 
+levels in fetal brains by microRNA miR-483-5p. Genes 
+Dev. 27, 485–490 (2013).
+96. Rodrigues, D. C. et al. MECP2 is post- transcriptionally 
+regulated during human neurodevelopment by combinatorial action of RNA- binding proteins and 
+miRNAs. Cell Rep. 17, 720–734 (2016).
+97. Zhang, Y. et al. MiR-130a regulates neurite outgrowth 
+and dendritic spine density by targeting MeCP2. 
+Protein Cell 7, 489–500 (2016).
+98. Im, H. I., Hollander, J. A., Bali",h,89000
+"der, J. A., Bali, P . & Kenny, P . J. 
+MeCP2 controls BDNF expression and cocaine intake 
+through homeostatic interactions with microRNA-212. 
+Nat. Neurosci. 13, 1120–1127 (2010).
+99. Dani, V. S. et al. Reduced cortical activity due to a shift 
+in the balance between excitation and inhibition in a 
+mouse model of Rett syndrome. Proc. Natl Acad. Sci. 
+USA 102, 12560–12565 (2005).
+100. Nelson, E. D., Kavalali, E. T . & Monteggia, L. M. 
+MeCP2-dependent transcriptional repression 
+regulates excitatory neurotransmission. Curr. Biol. 16, 
+710–716 (2006).
+101. Banerjee, A. et al. Jointly reduced inhibition and excitation underlies circuit- wide changes in cortical 
+processing in Rett syndrome. Proc. Natl Acad. Sci. USA 113, E7287–E7296 (2016). This study shows 
+that visually driven excitatory and inhibitory conductances are both reduced in MeCP2-deficient mice in vivo, and that PV
++-cell- specific MeCP2 
+deletion recapitulates effects of global MeCP2 
+deletion on cortical circuits.
+102. Calf",h,90000
+".
+102. Calfa, G., Li, W., Rutherford, J. M. & Pozzo- Miller, L. 
+Excitation/inhibition imbalance and impaired synaptic 
+inhibition in hippocampal area CA3 of Mecp2  
+knockout mice. Hippocampus 25, 159–168 (2015).
+103. T aneja, P . et al. Pathophysiology of locus ceruleus 
+neurons in a mouse model of Rett syndrome.  
+J. Neurosci. 29, 12187–12195 (2009).
+104. Abdala, A. P . L., Dutschmann, M., Bissonnette, J. M. & Paton, J. F. R. Correction of respiratory disorders in 
+a mouse model of Rett syndrome. Proc. Natl Acad. Sci. USA 107, 18208–18213 (2010).
+105. Medrihan, L. et al. Early defects of GABAergic synapses in the brain stem of a MeCP2 mouse model of Rett syndrome. J. Neurophysiol. 99, 112–121 
+(2008).
+106. Kron, M. et al. Brain activity mapping in Mecp2  
+mutant mice reveals functional deficits in forebrain 
+circuits, including key nodes in the default mode 
+network, that are reversed with ketamine treatment.  
+J. Neurosci. 32, 13860–13872 (2012).
+107. Calfa, G. et al. Network hypere",h,91000
+"Network hyperexcitability in 
+hippocampal slices from Mecp2 mutant mice revealed by voltage- sensitive dye imaging. J. Neurophysiol.  
+105, 1768–1784 (2011).
+108. Mo, A. et al. Epigenomic signatures of neuronal diversity in the mammalian brain. Neuron 86,  
+1369–1384 (2015).
+109. Durand, S. et al. NMDA receptor regulation prevents regression of visual cortical function in the absence of 
+Mecp2. Neuron 76, 1078–1090 (2012).
+110. Meng, X. et al. Manipulations of MeCP2 in glutamatergic neurons highlight their contributions  
+to Rett and other neurological disorders. eLife 5, 
+e14199 (2016).
+111. Gemelli, T . et al. Postnatal loss of methyl- CpG binding 
+protein 2 in the forebrain is sufficient to mediate 
+behavioral aspects of Rett syndrome in mice. Biol. Psychiatry 59, 468–476 (2006).
+112. Ure, K. et al. Restoration of Mecp2 expression in 
+GABAergic neurons is sufficient to rescue multiple 
+disease features in a mouse model of Rett syndrome. 
+eLife 5, e14198 (2016).
+113. Rudy, B., Fishel",h,92000
+"y, B., Fishell, G., Lee, S. H. & Hjerling- Leffler, J. 
+Three groups of interneurons account for nearly 100% 
+of neocortical GABAergic neurons. Dev. Neurobiol. 71, 
+45–61 (2011).
+114. Kepecs, A. & Fishell, G. Interneuron cell types are fit to 
+function. Nature 505, 318–326 (2014).
+115. Fishell, G. & Rudy, B. Mechanisms of inhibition within 
+the telencephalon: ‘where the wild things are’ . Annu. 
+Rev. Neurosci. 34, 535–567 (2011).
+116. Pfeffer, C. K., Xue, M., He, M., Huang, Z. J. & Scanziani, M. Inhibition of inhibition in visual cortex: the logic of connections between molecularly distinct 
+interneurons. Nat. Neurosci. 16, 1068–1076 (2013).
+117. Adesnik, H., Bruns, W., Taniguchi, H., Huang, Z. J. & Scanziani, M. A neural circuit for spatial summation in 
+visual cortex. Nature 490, 226–231 (2012).118. Gentet, L. J. et al. Unique functional properties of 
+somatostatin- expressing GABAergic neurons in mouse 
+barrel cortex. Nat. Neurosci. 15, 607–612 (2012).
+119. Lee, S., Kruglikov, I., H",h,93000
+" Kruglikov, I., Huang, Z. J., Fishell, G. &  
+Rudy, B. A disinhibitory circuit mediates motor 
+integration in the somatosensory cortex. Nat. 
+Neurosci. 16, 1662–1670 (2013).
+120. Olsen, S. R., Bortone, D. S., Adesnik, H. &  
+Scanziani, M. Gain control by layer six in cortical 
+circuits of vision. Nature 483, 47–52 (2012).
+121. Wilson, N. R., Runyan, C. A., Wang, F. L. & Sur, M. 
+Division and subtraction by distinct cortical inhibitory 
+networks in vivo. Nat. Biotechnol. 488, 343–348 
+(2012).
+122. Xue, M., Atallah, B. V. & Scanziani, M. Equalizing 
+excitation- inhibition ratios across visual cortical 
+neurons. Nature 511, 596–600 (2014).
+123. Ito- Ishida, A., Ure, K., Chen, H., Swann, J. W. & 
+Zoghbi, H. Y. Loss of MeCP2 in parvalbumin- and 
+somatostatin- expressing neurons in mice leads to 
+distinct Rett syndrome- like phenotypes. Neuron 88, 
+651–658 (2015).
+124. Krishnan, K. et al. MeCP2 regulates the timing of 
+critical period plasticity that shapes functional 
+connectivity in primar",h,94000
+"ty in primary visual cortex. Proc. Natl Acad. 
+Sci. USA 112, E4782–E4791 (2015).
+125. Mierau, S. B., Patrizi, A., Hensch, T . K. & Fagiolini, M. 
+Cell- specific regulation of N- methyl-d- aspartate 
+receptor maturation by Mecp2 in cortical circuits. Biol. Psychiatry 79, 746–754 (2016).
+126. He, L. J. et al. Conditional deletion of Mecp2 in 
+parvalbumin- expressing GABAergic cells results in the 
+absence of critical period plasticity. Nat. Commun. 5, 
+5036 (2014).
+127. T ang, X. et al. KCC2 rescues functional deficits in 
+human neurons derived from patients with Rett syndrome. Proc. Natl Acad. Sci. USA 113, 751–756 
+(2016).
+128. Blaesse, P ., Airaksinen, M. S., Rivera, C. & Kaila, K. 
+Cation–chloride cotransporters and neuronal function. 
+Neuron 61, 820–838 (2009).
+129. Kaila, K., Price, T . J., Payne, J. A., Puskarjov, M. & 
+Voipio, J. Cation–chloride cotransporters in neuronal 
+development, plasticity and disease. Nat. Rev. 
+Neurosci. 15, 637–654 (2014).
+130. Ben- Ari, Y. NKCC1 chlori",h,95000
+" Y. NKCC1 chloride importer antagonists 
+attenuate many neurological and psychiatric disorders. 
+T rends Neurosci. 40, 536–554 (2017).
+131. He, Q. E., Nomura, T ., Xu, J. & Contractor, A.  
+The developmental switch in GABA polarity is delayed in fragile X mice. Eur. J. Neurosci. 34, 446–450 (2014).
+132. Ben- Ari, Y. et al. Refuting the challenges of the 
+developmental shift of polarity of GABA actions: GABA 
+more exciting than ever! Front. Cell. Neurosci. 6, 35 
+(2012).
+133. Duarte, S. T . et al. Abnormal expression of 
+cerebrospinal fluid cation chloride cotransporters in 
+patients with Rett syndrome. PLoS ONE 8, e68851 
+(2013).
+134. Castro, J. et al. Functional recovery with recombinant 
+human IGF1 treatment in a mouse model of Rett 
+Syndrome. Proc. Natl Acad. Sci. USA 111,  
+9941–9946 (2014).
+135. Kelsch, W. et al. Insulin- like growth factor 1 and a 
+cytosolic tyrosine kinase activate chloride outward 
+transport during maturation of hippocampal neurons. 
+Eur. J. Neurosci. 21, 8339–",h,96000
+" 21, 8339–8347 (2001).
+136. Ko, H. et al. The emergence of functional microcircuits 
+in visual cortex. Nature 496, 96–100 (2013).
+137. Espinosa, J. S. & Stryker, M. P . Development and 
+plasticity of the primary visual cortex. Neuron 75, 
+230–249 (2012).
+138. Chen, S. X., Kim, A. N., Peters, A. J. & Komiyama, T . 
+Subtype- specific plasticity of inhibitory circuits in 
+motor cortex during motor learning. Nat. Neurosci.  
+18, 1109–1115 (2015).
+139. Cichon, J. & Gan, W.-B. Branch- specific dendritic Ca
+2+ 
+spikes cause persistent synaptic plasticity. Nature  
+520, 180–185 (2015).
+140. Hayashi- T akagi, A. et al. Labelling and optical erasure 
+of synaptic memory traces in the motor cortex. Nature  
+525, 333–338 (2015).
+141. T urrigiano, G. G. & Nelson, S. B. Homeostatic plasticity 
+in the developing nervous system. Nat. Rev. Neurosci.  
+5, 97–107 (2004).
+142. Sur, M., Nagakura, I., Chen, N. & Sugihara, H. 
+Mechanisms of plasticity in the developing and adult 
+visual cortex. Prog. Brain Re",h,97000
+". Prog. Brain Res. 207, 243–254 (2013).
+143. Hong, E. J., McCord, A. E. & Greenberg, M. E. A. 
+Biological function for the neuronal activity- dependent 
+component of Bdnf transcription in the development of cortical inhibition. Neuron 60, 610–624 (2008).
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.NATURE REvIEWS | NEuRosCiENCEReviews
+  volUmE 19 | JUNE 2018 | 381144. Yee, A. X., Hsu, Y.-T . & Chen, L. A metaplasticity view of 
+the interaction between homeostatic and Hebbian 
+plasticity. Philos. T rans. R. Soc. Lond. B Biol. Sci. 372, 
+20160155 (2017).
+145. Mullins, C., Fishell, G. & T sien, R. W. Unifying views of 
+autism spectrum disorders: a consideration of autoregulatory feedback loops. Neuron 89,  
+1131–1156 (2016).
+146. Ebert, D. H. & Greenberg, M. E. Activity- dependent 
+neuronal signalling and autism spectrum disorder. Nature 493, 327–337 (2013).
+147. Blackman, M. P ., Djukic, B., Nelson, S. B. & T urrigiano, 
+G. G. A critical and cell- aut",h,98000
+"cell- autonomous role for MeCP2 in 
+synaptic scaling up. J. Neurosci. 32, 13529–13536 
+(2012).
+148. Qiu, Z. et al. The Rett syndrome protein MeCP2 
+regulates synaptic scaling. J. Neurosci. 32, 989–994 
+(2012).
+149. Zhong, X., Li, H. & Chang, Q. MeCP2 phosphorylation 
+is required for modulating synaptic scaling through 
+mGluR5. J. Neurosci. 32, 12841–12847 (2012).
+150. Noutel, J., Hong, Y. K., Leu, B., Kang, E. & Chen, C. 
+Experience- dependent retinogeniculate synapse 
+remodeling is abnormal in MeCP2-deficient mice. Neuron 70, 35–42 (2011).
+151. T ropea, D., Van Wart, A. & Sur, M. Molecular 
+mechanisms of experience- dependent plasticity in 
+visual cortex. Philos. T rans. R. Soc. Lond. B Biol. Sci.  
+364, 341–355 (2009).
+152. Brown, K. et al. The molecular basis of variable 
+phenotypic severity among common missense 
+mutations causing Rett syndrome. Hum. Mol. Genet.  
+25, 558–570 (2016).
+153. Samaco, R. C. et al. Crh and Oprm1 mediate anxiety-  
+related behavior and social approach in ",h,99000
+"al approach in a mouse 
+model of MECP2 duplication syndrome. Nat. Genet.  
+44, 206–211 (2012).
+154. Sztainberg, Y. et al. Reversal of phenotypes in MECP2 duplication mice using genetic rescue or 
+antisense oligonucleotides. Nature 528, 123–126 
+(2015).
+155. Van Esch, H. et al. Duplication of the MECP2 region is a frequent cause of severe mental retardation and 
+progressive neurological symptoms in males.  
+Am. J. Hum. Genet. 77, 442–453 (2005).
+156. Samaco, R. C. et al. Female Mecp2
++/− mice display 
+robust behavioral deficits on two different genetic 
+backgrounds providing a framework for pre- clinical 
+studies. Hum. Mol. Genet. 22, 96–109 (2013).
+157. Goffin, D. et al. Rett syndrome mutation MeCP2 
+T158A disrupts DNA binding, protein stability and ERP responses. Nat. Neurosci. 15, 274–283 (2011).
+158. Lamonica, J. M. et al. Elevating expression of MeCP2 
+T158M rescues DNA binding and Rett syndrome- like 
+phenotypes. J. Clin. Invest. 127, 1889–1904 (2017).
+159. Veeraragavan, S. et al.",h,100000
+"aragavan, S. et al. Loss of MeCP2 in the rat models regression, impaired sociability and transcriptional 
+deficits of Rett syndrome. Hum. Mol. Genet. 25,  
+3284–3302 (2016).
+160. Chen, Y. et al. Modeling Rett syndrome using TALEN-  
+edited MECP2 mutant cynomolgus monkeys. Cell 169, 
+945–955.e10 (2017).
+161. Khwaja, O. S. et al. Safety, pharmacokinetics, and preliminary assessment of efficacy of mecasermin 
+(recombinant human IGF-1) for the treatment of Rett 
+syndrome. Proc. Natl Acad. Sci. USA 111,  
+4596–4601 (2014).162. Li, W. & Pozzo- Miller, L. BDNF deregulation in Rett 
+syndrome. Neuropharmacology 76, 737–746 (2014).
+163. Katz, D. M. et al. Rett syndrome: crossing the 
+threshold to clinical translation. T rends Neurosci. 39, 
+100–113 (2016).
+164. Chang, Q., Khare, G., Dani, V., Nelson, S. & Jaenisch, 
+R. The disease progression of Mecp2 mutant mice is affected by the level of BDNF expression. Neuron 49, 
+341–348 (2006).
+165. US National Library of Medicine. ClinicalT rials.gov  
+h",h,101000
+"lT rials.gov  
+https://clinicaltrials.gov/ct2/show/NCT02061137 
+(2014).
+166. US National Library of Medicine. ClinicalT rials.gov  
+https://clinicaltrials.gov/ct2/show/NCT02153723 
+(2014).
+167. El- Husseini, A. E. D., Schnell, E., Chetkovich, D. M., 
+Nicoll, R. A. & Bredt, D. S. PSD-95 involvement in maturation of excitatory synapses. Acta Crystallogr. B.  
+290, 1364–1368 (2000).
+168. Sheng, M. & Kim, M. J. Postsynaptic signaling and 
+plasticity mechanisms. Acta Crystallogr. B. 298,  
+776–780 (2002).
+169. Yoshii, A. & Constantine- Paton, M. BDNF induces 
+transport of PSD-95 to dendrites through PI3K- AKT 
+signaling after NMDA receptor activation. Nat. Neurosci. 10, 702–711 (2007).
+170. Zheng, W. H. & Quirion, R. Comparative signaling 
+pathways of insulin- like growth factor-1 and brain-  
+derived neurotrophic factor in hippocampal neurons and the role of the PI3 kinase pathway in cell survival. J. Neurochem. 89, 844–852 (2004).
+171. Chao, H.-T ., Zoghbi, H. Y. & Rosenmund, C. MeCP2 
+co",h,102000
+"eCP2 
+controls excitatory synaptic strength by regulating 
+glutamatergic synapse number. Neuron 56, 58–65 
+(2007).
+172. Farra, N. et al. Rett syndrome induced pluripotent stem cell- derived neurons reveal novel 
+neurophysiological alterations. Mol. Psychiatry 17, 
+1261–1271 (2012).
+173. Marchetto, M. C. N. et al. A model for neural 
+development and treatment of Rett syndrome using 
+human induced pluripotent stem cells. Cell 143,  
+527–539 (2010).
+174. Williams, E. C. et al. Mutant astrocytes differentiated 
+from Rett syndrome patients- specific iPSCs have 
+adverse effects on wild- type neurons. Hum. Mol. 
+Genet. 23, 2968–2980 (2014).
+175. Yazdani, M. et al. Disease modeling using embryonic 
+stem cells: MeCP2 regulates nuclear size and RNA 
+synthesis in neurons. Stem Cells 30, 2128–2139 
+(2012).
+176. Lancaster, M. A. et al. Cerebral organoids model 
+human brain development and microcephaly. Nature  
+501, 373–379 (2012).
+177. Quadrato, G. et al. Cell diversity and network dynamics in pho",h,103000
+"rk dynamics in photosensitive human brain organoids. 
+Nature 545, 48–53 (2017).
+178. Di Lullo, E. & Kriegstein, A. R. The use of brain 
+organoids to investigate neural development and 
+disease. Nat. Rev. Neurosci. 18, 573–584 (2017).
+179. Sahin, M. & Sur, M. Genes, circuits, and precision 
+therapies for autism and related neurodevelopmental 
+disorders. Science 350, aab3897 (2015).
+180. Luikenhuis, S., Giacometti, E., Beard, C. F. &  
+Jaenisch, R. Expression of MeCP2 in postmitotic neurons rescues Rett syndrome in mice. Proc. Natl 
+Acad. Sci. USA 101, 6033–6038 (2004).181. Hao, S. et al. Forniceal deep brain stimulation rescues 
+hippocampal memory in Rett syndrome mice. Nature  
+526, 430–434 (2015).
+182. Lu, H. et al. Loss and gain of MeCP2 cause similar hippocampal circuit dysfunction that is rescued by 
+deep brain stimulation in a Rett syndrome mouse model. Neuron 91, 739–747 (2016).
+183. Chiken, S. & Nambu, A. Mechanism of deep brain 
+stimulation: inhibition, excitation, or disruptio",h,104000
+"or disruption? 
+Neuroscientist 22, 313–322 (2016).
+184. Garg, S. K. et al. Systemic delivery of MeCP2 rescues 
+behavioral and cellular deficits in female mouse models of Rett syndrome. J. Neurosci. 33,  
+13612–13620 (2013).
+185. Brendel, C. et al. Readthrough of nonsense mutations 
+in Rett syndrome: evaluation of novel aminoglycosides and generation of a new mouse model. J. Mol. Med.  
+89, 389–398 (2011).
+186. Vecsler, M. et al. Ex vivo treatment with a novel 
+synthetic aminoglycoside NB54 in primary 
+fibroblasts from Rett syndrome patients suppresses 
+MECP2 nonsense mutations. PLoS ONE 6, e20733 
+(2011).
+187. Sripathy, S. et al. Screen for reactivation of MeCP2 on the inactive X chromosome identifies the BMP/
+TGF- β superfamily as a regulator of XIST 
+expression. Proc. Natl Acad. Sci. USA 114,  
+1619–1624 (2017).
+188. Carrette, L. L. G. et al. A mixed modality approach 
+towards Xi reactivation for Rett syndrome and other  
+X- linked disorders. Proc. Natl Acad. Sci. USA 115, 
+E668–E675",h,105000
+"15, 
+E668–E675 (2018).
+189. Sinnamon, J. R. et al. Site- directed RNA repair of 
+endogenous Mecp2 RNA in neurons. Proc. Natl Acad. 
+Sci. USA 114, 201715320 (2017).  
+This study demonstrates that site- directed RNA 
+editing is able to repair, at the mRNA level, a RTT-  
+causing mutation affecting the mouse MeCP2 MBD.
+Acknowledgements
+The authors thank H. T sang for thoughtful discussions and 
+critical reading of the manuscript. The authors apologize to 
+colleagues whose research was not cited owing to the broad 
+scope and space limitations of this Review. The authors’ 
+research is supported by a Human Frontier Science Program 
+Long- T erm Fellowship (J.P .K.I.) and by US National Institutes 
+of Health grants MH085802 and EY007023, and the Simons Foundation Autism Research Initiative through the  
+Simons Center for the Social Brain (M.S.).
+Author contributions
+J.P .K.I., N.M. and M.S. researched data for the article, con-tributed substantially to the discussion of content, wrote the 
+art",h,106000
+" 
+article and reviewed and edited the manuscript before 
+submission.
+Competing interests
+The authors declare no competing interests.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Reviewer information
+Nature Reviews Neuroscience  thanks T . Pizzorusso and the 
+other anonymous reviewer(s) for their contribution to the 
+peer review of this work.
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.www.nature.com/nrnReviews
+382 | JUNE 2018 | volUmE 19 ",h,107000
+,h,108000
+,h,109000
+,h,110000
+,h,111000
+,h,112000
+,h,113000
+,h,114000
+,h,115000
+,h,116000
+,h,117000
+,h,118000
+,h,119000
+,h,120000
+,h,121000
+,h,122000
+,h,123000
+,h,124000
+,h,125000
+,h,126000
+,h,127000
+,h,128000
+,h,129000
+,h,130000
+,h,131000
+,h,132000
+,h,133000
+,h,134000
+,h,135000
+,h,136000
+,h,137000
+,h,138000
+,h,139000
+,h,140000
+,h,141000
+,h,142000
+,h,143000
+,h,144000
+,h,145000
+,h,146000
+,h,147000
+,h,148000
+,h,149000
+,h,150000
+,h,151000
+,h,152000
+,h,153000
+,h,154000
+,h,155000
+,h,156000
+,h,157000
+,h,158000
+,h,159000
+,h,160000
+,h,161000
+,h,162000
+,h,163000
+,h,164000
+,h,165000
+,h,166000
+,h,167000
+,h,168000
+,h,169000
+,h,170000
+,h,171000
+,h,172000
+,h,173000
+,h,174000
+,h,175000
+,h,176000
+,h,177000
+,h,178000
+,h,179000
+,h,180000
+,h,181000
+,h,182000
+,h,183000
+,h,184000
+,h,185000
+,h,186000
+,h,187000
+,h,188000
+,h,189000
+,h,190000
+,h,191000
+,h,192000
+,h,193000
+,h,194000
+,h,195000
+,h,196000
+,h,197000
+,h,198000
+,h,199000
+,h,200000
+,h,201000
+,h,202000
+,h,203000
+,h,204000
+,h,205000
+,h,206000
+,h,207000
+,h,208000
+,h,209000
+,h,210000
+,h,211000
+,h,212000
+,h,213000
+,h,214000
+,h,215000
+,h,216000
+,h,217000
+,h,218000
+,h,219000
+,h,220000
+,h,221000
+,h,222000
+,h,223000
+,h,224000
+,h,225000
+,h,226000
+,h,227000
+,h,228000
+,h,229000
+,h,230000
+,h,231000
+,h,232000
+,h,233000
+,h,234000
+,h,235000
+,h,236000
+,h,237000
+,h,238000
+,h,239000
+,h,240000
+,h,241000
+,h,242000
+,h,243000
+,h,244000
+,h,245000
+,h,246000
+,h,247000
+,h,248000
+,h,249000
+,h,250000
+,h,251000
+,h,252000
+,h,253000
+,h,254000
+,h,255000
+,h,256000
+,h,257000
+,h,258000
+,h,259000
+,h,260000
+,h,261000
+,h,262000
+,h,263000
+,h,264000
+,h,265000
+,h,266000
+,h,267000
+,h,268000
+,h,269000
+,h,270000
+,h,271000
+,h,272000
+,h,273000
+,h,274000
+,h,275000
+,h,276000
+,h,277000
+,h,278000
+,h,279000
+,h,280000
+,h,281000
+,h,282000
+,h,283000
+,h,284000
+,h,285000
+,h,286000
+,h,287000
+,h,288000
+,h,289000
+,h,290000
+,h,291000
+,h,292000
+,h,293000
+,h,294000
+,h,295000
+,h,296000
+,h,297000
+,h,298000
+,h,299000
+,h,300000
+,h,301000
+,h,302000
+,h,303000
+,h,304000
+,h,305000
+,h,306000
+,h,307000
+,h,308000
+,h,309000
+,h,310000
+,h,311000
+,h,312000
+,h,313000
+,h,314000
+,h,315000
+,h,316000
+,h,317000
+,h,318000
+,h,319000
+,h,320000
+,h,321000
+,h,322000
+,h,323000
+,h,324000
+,h,325000
+,h,326000
+,h,327000
+,h,328000
+,h,329000
+,h,330000
+,h,331000
+,h,332000
+,h,333000
+,h,334000
+,h,335000
+,h,336000
+,h,337000
+,h,338000
+,h,339000
+,h,340000
+,h,341000
+,h,342000
+,h,343000
+,h,344000
+,h,345000
+,h,346000
+,h,347000
+,h,348000
+,h,349000
+,h,350000
+,h,351000
+,h,352000
+,h,353000
+,h,354000
+,h,355000
+,h,356000
+,h,357000
+,h,358000
+,h,359000
+,h,360000
+,h,361000
+,h,362000
+,h,363000
+,h,364000
+,h,365000
+,h,366000
+,h,367000
+,h,368000
+,h,369000
+,h,370000
+,h,371000
+,h,372000
+,h,373000
+,h,374000
+,h,375000
+,h,376000
+,h,377000
+,h,378000
+,h,379000
+,h,380000
+,h,381000
+,h,382000
+,h,383000
+,h,384000
+,h,385000
+,h,386000
+,h,387000
+,h,388000
+,h,389000
+,h,390000
+,h,391000
+,h,392000
+,h,393000
+,h,394000
+,h,395000
+,h,396000
+,h,397000
+,h,398000
+,h,399000
+,h,400000
+,h,401000
+,h,402000
+,h,403000
+,h,404000
+,h,405000
+,h,406000
+,h,407000
+,h,408000
+,h,409000
+,h,410000
+,h,411000
+,h,412000
+,h,413000
+,h,414000
+,h,415000
+,h,416000
+,h,417000
+,h,418000
+,h,419000
+,h,420000
+,h,421000
+,h,422000
+,h,423000
+,h,424000
+,h,425000
+,h,426000
+,h,427000
+,h,428000
+,h,429000
+,h,430000
+,h,431000
+,h,432000
+,h,433000
+,h,434000
+,h,435000
+,h,436000
+,h,437000
+,h,438000
+,h,439000
+,h,440000
+,h,441000
+,h,442000
+,h,443000
+,h,444000
+,h,445000
+,h,446000
+,h,447000
+,h,448000
+,h,449000
+,h,450000
+,h,451000
+,h,452000
+,h,453000
+,h,454000
+,h,455000
+,h,456000
+,h,457000
+,h,458000
+,h,459000
+,h,460000
+,h,461000
+,h,462000
+,h,463000
+,h,464000
+,h,465000
+,h,466000
+,h,467000
+,h,468000
+,h,469000
+,h,470000
+,h,471000
+,h,472000
+,h,473000
+,h,474000
+,h,475000
+,h,476000
+,h,477000
+,h,478000
+,h,479000
+,h,480000
+,h,481000
+,h,482000
+,h,483000
+,h,484000
+,h,485000
+,h,486000
+,h,487000
+,h,488000
+,h,489000
+,h,490000
+,h,491000
+,h,492000
+,h,493000
+,h,494000
+,h,495000
+,h,496000
+,h,497000
+,h,498000
+,h,499000
+,h,500000
+,h,501000
+,h,502000
+,h,503000
+,h,504000
+,h,505000
+,h,506000
+,h,507000
+,h,508000
+,h,509000
+,h,510000
+,h,511000
+,h,512000
+,h,513000
+,h,514000
+,h,515000
+,h,516000
+,h,517000
+,h,518000
+,h,519000
+,h,520000
+,h,521000
+,h,522000
+,h,523000
+,h,524000
+,h,525000
+,h,526000
+,h,527000
+,h,528000
+,h,529000
+,h,530000
+,h,531000
+,h,532000
+,h,533000
+,h,534000
+,h,535000
+,h,536000
+,h,537000
+,h,538000
+,h,539000
+,h,540000
+,h,541000
+,h,542000
+,h,543000
+,h,544000
+,h,545000
+,h,546000
+,h,547000
+,h,548000
+,h,549000
+,h,550000
+,h,551000
+,h,552000
+,h,553000
+,h,554000
+,h,555000
+,h,556000
+,h,557000
+,h,558000
+,h,559000
+,h,560000
+,h,561000
+,h,562000
+,h,563000
+,h,564000
+,h,565000
+,h,566000
+,h,567000
+,h,568000
+,h,569000
+,h,570000
+,h,571000
+,h,572000
+,h,573000
+,h,574000
+,h,575000
+,h,576000
+,h,577000
+,h,578000
+,h,579000
+,h,580000
+,h,581000
+,h,582000
+,h,583000
+,h,584000
+,h,585000
+,h,586000
+,h,587000
+,h,588000
+,h,589000
+,h,590000
+,h,591000
+,h,592000
+,h,593000
+,h,594000
+,h,595000
+,h,596000
+,h,597000
+,h,598000
+,h,599000
+,h,600000
+,h,601000
+,h,602000
+,h,603000
+,h,604000
+,h,605000
+,h,606000
+,h,607000
+,h,608000
+,h,609000
+,h,610000
+,h,611000
+,h,612000
+,h,613000
+,h,614000
+,h,615000
+,h,616000
+,h,617000
+,h,618000
+,h,619000
+,h,620000
+,h,621000
+,h,622000
+,h,623000
+,h,624000
+,h,625000
+,h,626000
+,h,627000
+,h,628000
+,h,629000
+,h,630000
+,h,631000
+,h,632000
+,h,633000
+,h,634000
+,h,635000
+,h,636000
+,h,637000
+,h,638000
+,h,639000
+,h,640000
+,h,641000
+,h,642000
+,h,643000
+,h,644000
+,h,645000
+,h,646000
+,h,647000
+,h,648000
+,h,649000
+,h,650000
+,h,651000
+,h,652000
+,h,653000
+,h,654000
+,h,655000
+,h,656000
+,h,657000
+,h,658000
+,h,659000
+,h,660000
+,h,661000
+,h,662000
+,h,663000
+,h,664000
+,h,665000
+,h,666000
+,h,667000
+,h,668000
+,h,669000
+,h,670000
+,h,671000
+,h,672000
+,h,673000
+,h,674000
+,h,675000
+,h,676000
+,h,677000
+,h,678000
+,h,679000
+,h,680000
+,h,681000
+,h,682000
+,h,683000
+,h,684000
+,h,685000
+,h,686000
+,h,687000
+,h,688000
+,h,689000
+,h,690000
+,h,691000
+,h,692000
+,h,693000
+,h,694000
+,h,695000
+,h,696000
+,h,697000
+,h,698000
+,h,699000
+,h,700000
+,h,701000
+,h,702000
+,h,703000
+,h,704000
+,h,705000
+,h,706000
+,h,707000
+,h,708000
+,h,709000
+,h,710000
+,h,711000
+,h,712000
+,h,713000
+,h,714000
+,h,715000
+,h,716000
+,h,717000
+,h,718000
+,h,719000
+,h,720000
+,h,721000
+,h,722000
+,h,723000
+,h,724000
+,h,725000
+,h,726000
+,h,727000
+,h,728000
+,h,729000
+,h,730000
+,h,731000
+,h,732000
+,h,733000
+,h,734000
+,h,735000
+,h,736000
+,h,737000
+,h,738000
+,h,739000
+,h,740000
+,h,741000
+,h,742000
+,h,743000
+,h,744000
+,h,745000
+,h,746000
+,h,747000
+,h,748000
+,h,749000
+,h,750000
+,h,751000
+,h,752000
+,h,753000
+,h,754000
+,h,755000
+,h,756000
+,h,757000
+,h,758000
+,h,759000
+,h,760000
+,h,761000
+,h,762000
+,h,763000
+,h,764000
+,h,765000
+,h,766000
+,h,767000
+,h,768000
+,h,769000
+,h,770000
+,h,771000
+,h,772000
+,h,773000
+,h,774000
+,h,775000
+,h,776000
+,h,777000
+,h,778000
+,h,779000
+,h,780000
+,h,781000
+,h,782000
+,h,783000
+,h,784000
+,h,785000
+,h,786000
+,h,787000
+,h,788000
+,h,789000
+,h,790000
+,h,791000
+,h,792000
+,h,793000
+,h,794000
+,h,795000
+,h,796000
+,h,797000
+,h,798000
+,h,799000
+,h,800000
+,h,801000
+,h,802000
+,h,803000
+,h,804000
+,h,805000
+,h,806000
+,h,807000
+,h,808000
+,h,809000
+,h,810000
+,h,811000
+,h,812000
+,h,813000
+,h,814000
+,h,815000
+,h,816000
+,h,817000
+,h,818000
+,h,819000
+,h,820000
+,h,821000
+,h,822000
+,h,823000
+,h,824000
+,h,825000
+,h,826000
+,h,827000
+,h,828000
+,h,829000
+,h,830000
+,h,831000
+,h,832000
+,h,833000
+,h,834000
+,h,835000
+,h,836000
+,h,837000
+,h,838000
+,h,839000
+,h,840000
+,h,841000
+,h,842000
+,h,843000
+,h,844000
+,h,845000
+,h,846000
+,h,847000
+,h,848000
+,h,849000
+,h,850000
+,h,851000
+,h,852000
+,h,853000
+,h,854000
+,h,855000
+,h,856000
+,h,857000
+,h,858000
+,h,859000
+,h,860000
+,h,861000
+,h,862000
+,h,863000
+,h,864000
+,h,865000
+,h,866000
+,h,867000
+,h,868000
+,h,869000
+,h,870000
+,h,871000
+,h,872000
+,h,873000
+,h,874000
+,h,875000
+,h,876000
+,h,877000
+,h,878000
+,h,879000
+,h,880000
+,h,881000
+,h,882000
+,h,883000
+,h,884000
+,h,885000
+,h,886000
+,h,887000
+,h,888000
+,h,889000
+,h,890000
+,h,891000
+,h,892000
+,h,893000
+,h,894000
+,h,895000
+,h,896000
+,h,897000
+,h,898000
+,h,899000
+,h,900000
+,h,901000
+,h,902000
+,h,903000
+,h,904000
+,h,905000
+,h,906000
+,h,907000
+,h,908000
+,h,909000
+,h,910000
+,h,911000
+,h,912000
+,h,913000
+,h,914000
+,h,915000
+,h,916000
+,h,917000
+,h,918000
+,h,919000
+,h,920000
+,h,921000
+,h,922000
+,h,923000
+,h,924000
+,h,925000
+,h,926000
+,h,927000
+,h,928000
+,h,929000
+,h,930000
+,h,931000
+,h,932000
+,h,933000
+,h,934000
+,h,935000
+,h,936000
+,h,937000
+,h,938000
+,h,939000
+,h,940000
+,h,941000
+,h,942000
+,h,943000
+,h,944000
+,h,945000
+,h,946000
+,h,947000
+,h,948000
+,h,949000
+,h,950000
+,h,951000
+,h,952000
+,h,953000
+,h,954000
+,h,955000
+,h,956000
+,h,957000
+,h,958000
+,h,959000
+,h,960000
+,h,961000
+,h,962000
+,h,963000
+,h,964000
+,h,965000
+,h,966000
+,h,967000
+,h,968000
+,h,969000
+,h,970000
+,h,971000
+,h,972000
+,h,973000
+,h,974000
+,h,975000
+,h,976000
+,h,977000
+,h,978000
+,h,979000
+,h,980000
+,h,981000
+,h,982000
+,h,983000
+,h,984000
+,h,985000
+,h,986000
+,h,987000
+,h,988000
+,h,989000
+,h,990000
+,h,991000
+,h,992000
+,h,993000
+,h,994000
+,h,995000
+,h,996000
+,h,997000
+,h,998000
+,h,999000

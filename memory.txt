@@ -1,0 +1,25 @@
+SOTA
+-----
+X disease is an autoimmune disease 
+
+Symptoms:
+
+Genetic component? No
+
+
+Open questions
+---
+
+
+Treatments + targets
+---
+We don't know the target
+
+
+
+
+Strategy: 
+    Default strategy: Find targets one hop away from the target in question
+Transcriptomics matter, because it's not caused by a monogenic mutation. I should look for drugs that interrupt high level immune cascades. 
+
+Update: I didn't find many of those -> I should look for drugs that are two hops away instead of one hop away from the target. 
